@@ -106,35 +106,7 @@
             }
           }
         },
-        {
-          "data": {
-            "values": [
-              {
-                "date": "2018-03-01"
-              }
-            ]
-          },
-          "mark": {
-            "type": "rule",
-            "strokeDash": [3, 3],
-            "strokeWidth": 1,
-            "color": "#e74c3c",
-            "opacity": 0.65,
-            "clip": true
-          },
-          "encoding": {
-            "x": {
-              "field": "date",
-              "type": "temporal",
-              "scale": {
-                "domain": {
-                  "param": "rankBrush",
-                  "encoding": "x"
-                }
-              }
-            }
-          }
-        },
+        
         {
           "data": {
             "url": "data/ranking_annotations.json"

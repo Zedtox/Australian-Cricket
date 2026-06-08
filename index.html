@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Australia's Cricket Dynasty — FIT2179</title>
+  <!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║   Australia's Cricket Dynasty — Vega-Lite JSON Specs         ║
+  ║   All JSON specs are in the js/ folder of this repository    ║
+  ║   Each file is formatted for human readability               ║
+  ║                                                              ║
+  ║   js/ranking.json        — ICC Rankings (3 formats)          ║
+  ║   js/calendar.json       — Monthly Win Rate Heatmap          ║
+  ║   js/ashes.json          — Ashes Waterfall (1882-2023)       ║
+  ║   js/bubble_map.json     — World Proportional Symbol Map     ║
+  ║   js/rose_chart.json     — Win Rate Rose Chart               ║
+  ║   js/box_plot.json       — Batter Innings Distribution       ║
+  ║   js/home_away.json      — Home vs Away Connected Dot        ║
+  ║   js/bowling.json        — Bowling Wickets & Average         ║
+  ║   js/donut.json          — ODI World Cup Finals Share        ║
+  ║   js/world_cups.json     — World Cup Campaigns Timeline      ║
+  ║   js/bbl_line.json       — BBL Season Points (13 seasons)    ║
+  ║   js/parallel_coords.json — Rising Stars Parallel Coords     ║
+  ║   js/bbl_dot_map.json    — BBL Win Dot Map (AUS states)      ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap"
+    rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="hero-left">
+      <p class="hero-eyebrow">Australia &middot; Test &middot; ODI &middot; T20 &middot; Since 1877</p>
+      <h1>Australia's<br>Cricket<br><em>Dynasty</em></h1>
+      <p class="hero-sub"><span class="key">140 years</span> of dominance. <span class="key">Six World Cup
+          titles</span>.
+        The greatest batter who ever
+        lived. Explore the story of the most formidable force in the history of cricket.</p>
+      <div class="hero-stats">
+        <div class="hstat"><span class="hstat-n">6</span><span class="hstat-l">ODI World Cups</span></div>
+        <div class="hstat"><span class="hstat-n">33</span><span class="hstat-l">Ashes Series Wins</span></div>
+        <div class="hstat"><span class="hstat-n">99.94</span><span class="hstat-l">Bradman's Average</span></div>
+        <div class="hstat"><span class="hstat-n">708</span><span class="hstat-l">Warne's Wickets</span></div>
+      </div>
+    </div>
+    <div class="hero-right">
+      <img class="hero-img"
+        src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YRCL54FZFNNSHFYQMFRWF5AXAI.jpg"
+        alt="MCG during 2015 Cricket World Cup Final" onerror="this.style.display='none'" />
+      <div class="hero-img-overlay"></div>
+    </div>
+  </header>
+
+  <nav class="snav">
+    <a href="#dominance">01 · Legacy</a>
+    <a href="#worldmap">02 · Global Dominance</a>
+    <a href="#ashes">03 · Rivalry</a>
+    <a href="#legends">04 · Legends</a>
+    <a href="#captains">05 · Captains</a>
+    <a href="#worldcups">06 · World Cups</a>
+    <a href="#bbl">07 · BBL</a>
+    <a href="#rising">08 · Modern Greats</a>
+  </nav>
+
+  <!-- 01 DOMINANCE -->
+  <section id="dominance">
+    <p class="slbl">01 · Legacy</p>
+    <h2 class="stitle">A Nation Built on <em>Winning</em></h2>
+    <p class="sbody"><span class="au">Australia's</span> success has rarely depended on a single generation. The Invincibles of <span
+        class="key">1948</span>,
+      the <span class="key">Waugh</span> and <span class="key">Ponting</span> dynasties, and today's <span
+        class="key">Cummins-led</span> side all reached the summit through different styles,
+      yet produced the same outcome—consistent world dominance across <span style="color:#FF0000;font-weight:700;">Test</span>, <span
+        class="odi">ODI</span>, and <span class="t20">T20I</span> cricket.</p>
+    <div class="gf fade-in">
+      <div class="cw">
+        <div class="ct">ICC Tournament Titles — Top Nations</div>
+        <div class="how-to-read"><strong>How to read:</strong> Each icon represents one tournament title. 🏆 = ODI World
+          Cup · ⚡ = T20 World Cup · 🥇 = Champions Trophy · 👑 = Test Championship</div>
+        <div class="filter-row" style="margin-bottom:12px">
+          <span class="filter-label">Tournament:</span>
+          <button class="fbtn iso-fbtn active" data-val="All" onclick="renderIsotype('All')">All</button>
+          <button class="fbtn iso-fbtn" data-val="ODI WC" onclick="renderIsotype('ODI WC')">ODI WC 🏆</button>
+          <button class="fbtn iso-fbtn" data-val="T20 WC" onclick="renderIsotype('T20 WC')">T20 WC ⚡</button>
+          <button class="fbtn iso-fbtn" data-val="Champions Trophy" onclick="renderIsotype('Champions Trophy')">Champs
+            Trophy 🥇</button>
+          <button class="fbtn iso-fbtn" data-val="Test Championship" onclick="renderIsotype('Test Championship')">Test
+            Champ 👑</button>
+        </div>
+        <div id="c-isotype" style="width:100%"></div>
+      </div>
+    </div>
+    <div class="gf fade-in">
+      <div class="cw">
+        <div class="ct">ICC Rankings — All Three Formats (2007–2024)</div>
+        <div class="how-to-read"><strong>How to read:</strong> Lower rank is better, so lines closer to the top show
+          stronger <span class="au">Australian</span> rankings. Use the format buttons and bottom brush to zoom into a shorter period.</div>
+        <div class="filter-row" style="margin-bottom:12px">
+          <span class="filter-label">Format:</span>
+          <button class="fbtn rank-fbtn active" data-val="All" onclick="renderRanking('All')">All</button>
+          <button class="fbtn rank-fbtn" data-val="Test" onclick="renderRanking('Test')">Test</button>
+          <button class="fbtn rank-fbtn" data-val="ODI" onclick="renderRanking('ODI')">ODI</button>
+          <button class="fbtn rank-fbtn" data-val="T20I" onclick="renderRanking('T20I')">T20I</button>
+        </div>
+        <div class="ci" id="c-rank"></div>
+      </div>
+    </div>
+    <div class="gf fade-in">
+      <div class="cw">
+        <div class="ct"><span class="au">Australia's</span> Monthly Win Rate (2010–2024)</div>
+        <div class="how-to-read"><strong>How to read:</strong> Each tile is one month. <span class="au">Gold</span>
+          means a higher
+          monthly win rate, <span style="color:#b22222;font-weight:700;">red</span> marks weaker months, and <span
+            style="color:#000000;font-weight:700;">black</span>
+          means no matches.</div>
+        <div class="ci" id="c-calendar"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 02 WORLD MAP -->
+  <section id="worldmap">
+    <p class="slbl">02 · Global Dominance</p>
+    <h2 class="stitle">Australia vs The <em>World</em></h2>
+    <p class="sbody"><span class="au">Australia's</span> cricketing influence spans every continent. Long-standing
+      rivalries with <span class="engtxt">England</span>
+      and <span style="color:#FFA500;font-weight:700;">India</span> are reflected in hundreds of encounters, while
+      historically dominant records against several nations
+      demonstrate <span class="au">Australia's</span> consistent strength regardless of opposition.
+    </p>
+    <div class="gf fade-in">
+      <div class="cw">
+        <div class="ct">Tests Played &amp; Win Rate by Opponent</div>
+        <div class="how-to-read"><strong>How to read:</strong> <span class="key">Larger bubbles</span> mean <span class="au">Australia</span>
+          played that opponent more
+          often. Colour shows win rate, so <span class="au">gold countries</span> indicate stronger <span class="au">Australian</span>
+          dominance.</div>
+        <div class="how-to-read" style="border-left-color:rgba(232,224,206,0.25);margin-top:-6px">
+          <strong>Note:</strong> The <span class="key">West Indies</span> is not one country; it represents several
+          Caribbean island nations.
+          These islands are very small, so they may not be clearly visible at this world-map scale.
+        </div>
+        <div class="ci" id="c-map"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 03 ASHES -->
+  <section id="ashes">
+    <p class="slbl">03 · Rivalry</p>
+    <h2 class="stitle">The Ashes: 140+ Years of <em>War</em></h2>
+    <p class="sbody">Born from a satirical obituary in <span class="key">1882</span>, the Ashes has been contested <span
+        class="key">74 times</span>. <span class="au">Australia leads 33
+        series</span> to <span class="engtxt">England's 32</span> with <span class="mutedkey">9 drawn</span>. The
+      waterfall chart maps every series &mdash; <span class="au">gold bars</span> climb for <span class="au">Australia</span>
+      wins, <span class="engtxt">blue bars</span> fall for <span class="engtxt">England</span> wins. Filter by location to see where each side truly
+      dominates.</p>
+    <img class="section-img-wide fade-in"
+      src="https://i.guim.co.uk/img/media/16c6751b8f6424c568aee7134cb7ba8c0d4b3c06/0_0_3592_2410/master/3592.jpg?width=1900&dpr=2&s=none&crop=none"
+      alt="Historic Ashes cricket action, capturing the long-running Australia–England rivalry."
+      onerror="this.style.display='none'" />
+    <p class="img-credit">Historic Ashes cricket action, capturing the long-running Australia–England rivalry.</p>
+    <div class="hr3 fade-in">
+      <div class="hc"><span class="hc-n">33</span>
+        <div class="hc-l">Ashes series won by Australia</div>
+        <div class="hc-s">vs 32 England · 9 drawn</div>
+      </div>
+      <div class="hc"><span class="hc-n">1948</span>
+        <div class="hc-l">The Invincibles — Bradman's unbeaten tour</div>
+        <div class="hc-s">Won 4–0 · Zero losses</div>
+      </div>
+      <div class="hc"><span class="hc-n">2006–07</span>
+        <div class="hc-l">Most recent 5–0 whitewash of England</div>
+        <div class="hc-s">Warne's final Ashes series</div>
+      </div>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">Filter location:</span>
+      <button class="fbtn active" onclick="filterAshes('all',this)">All Series</button>
+      <button class="fbtn" onclick="filterAshes('Australia',this)">Home in Australia</button>
+      <button class="fbtn" onclick="filterAshes('England',this)">Away in England</button>
+    </div>
+    <div class="gf fade-in">
+      <div class="cw">
+        <div class="ct">Every Ashes Series Result (1882–2023)</div>
+        <div class="how-to-read"><strong>How to read:</strong> <span class="au">Gold bars above</span> the line are
+          <span class="au">Australian</span> series wins, <span class="engtxt">blue bars below</span>
+          are <span class="engtxt">England</span> wins, and <span class="mutedkey">grey bars</span> are drawn series.
+          Use the location filter to
+          compare home vs away
+          history.</div>
+        <div class="ci" id="c-ashes"></div>
+      </div>
+    </div>
+    <div class="pq">
+      <p>"In affectionate remembrance of English cricket, which died at The Oval on 29th August 1882&hellip; The body
+        will be cremated and the ashes taken to Australia."</p>
+      <cite>&mdash; The Sporting Times, 2 September 1882</cite>
+    </div>
+  </section>
+
+  <!-- 04 LEGENDS -->
+  <section id="legends">
+    <p class="slbl">04 · Legends</p>
+    <h2 class="stitle">Legends of the <em>Baggy Green</em></h2>
+    <p class="sbody"><span class="au">Australia</span> has produced the <span class="key">greatest batter in history</span>, the <span
+        class="key">greatest wicket-taker in history</span>, and
+      arguably the most dominant team ever assembled. The charts below compare elite batting scores,
+      home-away consistency, and bowling greatness.</p>
+
+    <div class="gf fade-in">
+      <div class="cw" style="display:flex;flex-direction:column;margin-bottom:0">
+        <div class="ct">Top Batters — Innings Score Distribution</div>
+        <div class="how-to-read"><strong>How to read:</strong> The box shows the <span class="key">middle 50%</span> of
+          scores, the line shows
+          the median, and whiskers show the wider range. <span class="key">Bradman</span> sits far above the field.</div>
+        <div class="filter-row" style="margin-bottom:12px">
+          <span class="filter-label">Batter type:</span>
+          <button class="fbtn box-fbtn active" data-val="All" onclick="renderBox('All')">All</button>
+          <button class="fbtn box-fbtn" data-val="Opener" onclick="renderBox('Opener')">Openers</button>
+          <button class="fbtn box-fbtn" data-val="Middle Order" onclick="renderBox('Middle Order')">Middle
+            Order</button>
+        </div>
+        <div class="ci" id="c-box"></div>
+      </div>
+    </div>
+
+    <div class="g2 fade-in">
+      <div class="cw">
+        <div class="ct">Home vs Away — Batting Average</div>
+        <div class="how-to-read"><strong>How to read:</strong> <span class="au">Gold dots</span> show home average,
+          <span class="odi">green dots</span> show away
+          average, and the connecting line shows the gap between them. <span class="key">Smaller gaps</span> mean
+          stronger consistency
+          everywhere.
+        </div>
+        <div class="ci" id="c-ha"></div>
+      </div>
+      <div class="cw">
+        <div class="ct">Greatest Bowlers — Wickets &amp; Average</div>
+        <div class="how-to-read"><strong>How to read:</strong> Move toward the bottom-right for greatness: more wickets
+          on the right, lower bowling average toward the bottom.</div>
+        <div class="filter-row" style="margin-bottom:8px">
+          <span class="filter-label">Type:</span>
+          <button class="fbtn bowl-fbtn active" data-val="All" onclick="renderBowl('All',bowlMinWkts)">All</button>
+          <button class="fbtn bowl-fbtn" data-val="Pace" onclick="renderBowl('Pace',bowlMinWkts)">Pace</button>
+          <button class="fbtn bowl-fbtn" data-val="Spin" onclick="renderBowl('Spin',bowlMinWkts)">Spin</button>
+          <span class="filter-label" style="margin-left:12px">Min wickets:</span>
+          <button class="fbtn bowl-wfbtn active" data-val="100" onclick="renderBowl(bowlType,100)">100+</button>
+          <button class="fbtn bowl-wfbtn" data-val="250" onclick="renderBowl(bowlType,250)">250+</button>
+          <button class="fbtn bowl-wfbtn" data-val="500" onclick="renderBowl(bowlType,500)">500+</button>
+        </div>
+        <div class="ci" id="c-bowl"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 05 CAPTAINS -->
+  <section id="captains">
+    <p class="slbl">05 · Captains</p>
+    <h2 class="stitle">The Greatest <em>Captains</em></h2>
+    <p class="sbody">Great captains are remembered not only for lifting trophies, but for bringing the best out of those
+      around them.
+      From <span class="key">Allan Border</span> rebuilding <span class="au">Australian</span> cricket, to <span
+        class="key">Steve Waugh</span> and <span class="key">Ricky Ponting</span> leading dominant dynasties,
+      and <span class="key">Pat Cummins</span>
+      guiding the modern era, each captain left a unique mark on the Baggy Green. Explore their leadership profiles and
+      compare the
+      qualities that shaped some of <span class="au">Australia's</span> greatest teams.</p>
+
+    <div class="how-to-read" style="border-left-color:rgba(232,224,206,0.25);margin-top:-6px">
+      Click any captain to see their radar profile and raw captaincy metrics.
+    </div>
+
+    <div class="captain-strip" id="captain-strip">
+      <div class="cap-card active" onclick="selectCaptain('Allan Border',this)">
+        <img src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/94400/94457.jpg"
+          style="width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top" />
+        <div class="cap-name">Allan Border</div>
+        <div class="cap-era">1984–1994</div>
+      </div>
+
+      <div class="cap-card" onclick="selectCaptain('Mark Taylor',this)">
+        <img
+          src="https://static.ffx.io/images/$zoom_0.288%2C$multiply_1.545%2C$ratio_0.666667%2C$width_378%2C$x_337%2C$y_78/t_crop_custom/q_86%2Cf_auto/d4ab292d5a36a030f6f61dc415417bc35d73fa86"
+          style="width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top" />
+        <div class="cap-name">Mark Taylor</div>
+        <div class="cap-era">1994–1999</div>
+      </div>
+
+      <div class="cap-card" onclick="selectCaptain('Steve Waugh',this)">
+        <img src="https://www.portrait.gov.au/files/7/8/0/7/i9164.jpg"
+          style="width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top" />
+        <div class="cap-name">Steve Waugh</div>
+        <div class="cap-era">1999–2004</div>
+      </div>
+
+      <div class="cap-card" onclick="selectCaptain('Ricky Ponting',this)">
+        <img src="https://internationalspeakers.com.au/wp-content/uploads/2025/05/Ricky-Ponting.jpg"
+          style="width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top" />
+        <div class="cap-name">Ricky Ponting</div>
+        <div class="cap-era">2004–2011</div>
+      </div>
+
+      <div class="cap-card" onclick="selectCaptain('Michael Clarke',this)">
+        <img
+          src="https://live-production.wcms.abc-cdn.net.au/02a3775885abea1de38383b422d3aed3?impolicy=wcms_crop_resize&cropH=2723&cropW=2039&xPos=5&yPos=46&width=862&height=1149"
+          style="width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top" />
+        <div class="cap-name">Michael Clarke</div>
+        <div class="cap-era">2011–2015</div>
+      </div>
+
+      <div class="cap-card" onclick="selectCaptain('Pat Cummins',this)">
+        <img src="https://cdn4.theroar.com.au/wp-content/uploads/2025/10/GettyImages-2234400088-2-1400x800.jpg"
+          style="width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top" />
+        <div class="cap-name">Pat Cummins</div>
+        <div class="cap-era">2021–present</div>
+      </div>
+    </div>
+    <div class="captain-viz-grid fade-in">
+      <div class="radar-wrap">
+        <div class="ct" id="radar-title">Allan Border — Captain Radar</div>
+        <div class="cc">Six dimensions scored 0–100 relative to this group.</div>
+        <div class="ci" id="c-radar"></div>
+      </div>
+
+      <div class="radar-wrap">
+        <div class="ct" id="captain-impact-title">Allan Border — Captaincy Record</div>
+        <div class="cc">Raw statistics behind the radar profile.</div>
+        <div id="captain-impact" class="captain-impact-grid"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 06 WORLD CUPS -->
+  <section id="worldcups">
+    <p class="slbl">06 · World Cups</p>
+    <h2 class="stitle">Six Times World <em>Champions</em></h2>
+    <p class="sbody">No nation has dominated <span class="odi">ODI World Cups</span> like <span
+        class="au">Australia</span> — <span class="key">six titles</span> across <span class="key">1987, 1999, 2003,
+        2007,
+        2015, and 2023</span>. The labelled donut below shows the share of World Cup finals appearances by nation, while
+      the
+      timeline maps every campaign across both formats.</p>
+    <div class="g-wide-narrow fade-in"
+      style="grid-template-columns:minmax(0,1.35fr) minmax(340px,0.85fr);align-items:start">
+      <div>
+        <img class="section-img" src="https://sc0.blr1.digitaloceanspaces.com/inline/924667-kxpawidgcn-1558734214.jpg"
+          alt="All 4 Australian legends"
+          style="aspect-ratio:16/9;width:100%;object-fit:cover;border:1px solid var(--border);filter:saturate(.75)"
+          onerror="this.style.display='none'" />
+        <p class="img-credit">All 4 Australian ODI World Cup-winning captains</p>
+      </div>
+      <div class="cw">
+        <div class="ct">ODI World Cup Finals — Share by Nation</div>
+        <div class="cc"><span class="au">Australia</span> has reached <span class="key">8 World Cup</span> finals, the most by any nation.</div>
+        <div class="ci" id="c-donut"></div>
+      </div>
+    </div>
+    <div class="gf fade-in">
+      <div class="cw">
+        <div class="ct">ICC World Cup Campaigns — ODI &amp; T20I (1975–2024)</div>
+        <div class="how-to-read"><strong>How to read:</strong> Each row follows a tournament campaign through time.
+          <span class="au">Gold
+            marks titles</span>, <span class="odi">darker greens</span> mark deep runs, and <span
+            class="mutedkey">grey</span> marks early exits.
+        </div>
+        <div class="ci" id="c-wc"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 07 BBL -->
+  <section id="bbl">
+    <p class="slbl">07 · BBL</p>
+    <h2 class="stitle">The Big Bash <em>Era</em></h2>
+    <p class="sbody">Launched in <span class="key">2011–12</span>, the <span class="key">BBL</span> transformed
+      <span class="au">Australian</span> domestic cricket. Each dot on the map below
+      represents <span class="key">one match win</span>, placed over the home state of the winning team. Hit Play and
+      watch <span class="key">13 seasons</span> of <span class="key">BBL</span>
+      dominance unfold across <span class="au">Australia</span> — or drag the slider to any season.</p>
+    <div class="gf fade-in">
+      <div class="cw">
+        <div class="ct">BBL Win Dot Map — Season by Season</div>
+        <div class="how-to-read"><strong>How to read:</strong> Each dot represents one <span class="key">BBL</span> match win in the selected
+          season. Use Play or drag the slider to watch team dominance shift over time.</div>
+        <div class="bbl-controls">
+          <button class="play-btn" id="bbl-play-btn" onclick="bblTogglePlay()" title="Play/Pause">&#9654;</button>
+          <div class="bbl-slider-wrap">
+            <div class="bbl-slider-label" id="bbl-season-label">Season: All seasons (2011–2024)</div>
+            <input type="range" id="bbl-slider" min="0" max="13" value="13" onchange="bblSliderChange(this.value)" />
+            <div class="bbl-annotation" id="bbl-annotation">Perth Scorchers and Sydney Sixers lead overall with 5 titles
+              each across 13 seasons.</div>
+          </div>
+          <div class="bbl-counter" id="bbl-counter">547 total wins</div>
+        </div>
+        <div class="bbl-legend" id="bbl-legend"></div>
+        <div id="bbl-map-vega" style="width:100%;min-height:480px"></div>
+      </div>
+    </div>
+    <div class="gf fade-in">
+      <div class="cw">
+        <div class="ct">BBL Season Points by Franchise (2011–12 to 2023–24)</div>
+        <div class="how-to-read"><strong>How to read:</strong> Each line follows one franchise across <span class="key">13 seasons.</span> Higher
+          points mean a stronger season; hover any point for <span class="key">team, wins, losses</span> and <span class="key">points.</span> Use the <span class="key">state filters</span> or click a <span class="key">team name</span> in the legend to highlight one team.</div>
+        <div class="filter-row" style="margin-bottom:12px">
+          <span class="filter-label">State:</span>
+          <button class="fbtn bbl-state-fbtn active" data-val="All" onclick="renderBBLLine('All')">All</button>
+          <button class="fbtn bbl-state-fbtn" data-val="NSW" onclick="renderBBLLine('NSW')">NSW</button>
+          <button class="fbtn bbl-state-fbtn" data-val="WA" onclick="renderBBLLine('WA')">WA</button>
+          <button class="fbtn bbl-state-fbtn" data-val="VIC" onclick="renderBBLLine('VIC')">VIC</button>
+          <button class="fbtn bbl-state-fbtn" data-val="QLD" onclick="renderBBLLine('QLD')">QLD</button>
+          <button class="fbtn bbl-state-fbtn" data-val="SA" onclick="renderBBLLine('SA')">SA</button>
+          <button class="fbtn bbl-state-fbtn" data-val="TAS" onclick="renderBBLLine('TAS')">TAS</button>
+        </div>
+        <div class="ci" id="c-bbl"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 08 RISING STARS -->
+  <section id="rising">
+    <p class="slbl">08 · Modern Greats</p>
+    <h2 class="stitle">Australia's <em>Rising Stars</em></h2>
+    <p class="sbody">
+  <span class="au">Australia's</span> modern success is driven by a balanced group of world-class players rather than a single superstar.
+  The visualisations below compare today's leading batters and bowlers across multiple career metrics, highlighting the depth that continues
+  to define the <span class="key">Baggy Green</span>.
+</p>
+    <div class="section-with-img fade-in">
+      <div class="cw">
+        <div class="ct">Current Players — Debut Age vs International Experience</div>
+        <div class="how-to-read"><strong>How to read:</strong> Each coloured line is a current <span class="au">Australian</span> player. Follow
+          the line across axes to compare <span class="key">batting, experience, age, centuries</span> and <span class="key">ICC ranking.</span></div>
+          <div class="filter-row" style="margin-bottom:12px">
+  <span class="filter-label">Highlight:</span>
+  <button class="fbtn pc-fbtn active" data-val="All" onclick="setPCFilter('All')">All</button>
+  <button class="fbtn pc-fbtn" data-val="Batter" onclick="setPCFilter('Batter')">Batters</button>
+  <button class="fbtn pc-fbtn" data-val="Bowler" onclick="setPCFilter('Bowler')">Bowlers</button>
+</div>
+          <div class="ci" id="c-rise"></div>
+      </div>
+      <div>
+        <img class="section-img" src="https://i.pinimg.com/736x/23/d4/90/23d49050b30a89837936770d9a47c5c4.jpg"
+          alt="Pat Cummins - Modern Day Great" onerror="this.style.display='none'" />
+        <p class="img-credit" style="margin-top:6px">Pat Cummins celebrates Australia's 6th ODI WC</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="fg">
+      <div>
+        <div class="fh">Data Sources</div>
+        <p><strong>ESPNcricinfo Statsguru</strong><br><a
+            href="https://stats.espncricinfo.com">stats.espncricinfo.com</a><br>Career records across all international
+          formats.</p><br>
+        <p><strong>Cricsheet</strong><br><a href="https://cricsheet.org">cricsheet.org</a><br>Ball-by-ball data for
+          Tests, ODIs, T20Is and BBL.</p><br>
+        <p><strong>Kaggle — Big Bash League Dataset</strong><br>
+          <a href="https://www.kaggle.com/datasets/hmnshudhmn24/big-bash-league-dataset-20112025">kaggle.com/datasets/hmnshudhmn24/big-bash-league-dataset-20112025</a><br>
+          BBL match results, team standings, and season statistics (2011–2025).</p>
+      </div>
+      <div>
+        <div class="fh">About</div>
+        <p>Built for <strong>FIT2179 Data Visualisation 2</strong>, Monash University, Semester 1 2026. Most charts use
+          <strong>Vega-Lite 5</strong>. The BBL dot map uses Vega-Lite with custom controls.
+        </p><br>
+        <p><strong>Audience:</strong> Australian cricket fans and sports enthusiast.</p>
+      </div>
+      <div>
+        <div class="fh">Authorship &amp; AI</div>
+        <p><strong>Author:</strong> Syed Zaid Ali &middot; Monash University Clayton<br><strong>Date:</strong> June 2026
+        </p><br>
+        <p><strong>Images:</strong> © Australian Broadcasting Corporation (ABC) &middot; 
+        Used for educational and non-commercial purposes only.</p><br>
+        <p><strong>AI use:</strong> Claude (Anthropic) assisted with Vega-Lite JSON and Canvas animation code. All
+          design, story structure, and data selection are the author's own.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+
+</html>

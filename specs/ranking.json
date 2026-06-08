@@ -1,0 +1,309 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1120,
+  "padding": {
+    "left": 5,
+    "right": 18,
+    "top": 4,
+    "bottom": 2
+  },
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding",
+    "resize": true
+  },
+  "description": "Overview plus detail ranking chart. Bottom brush controls the x-scale domain of the top chart.",
+  "vconcat": [
+    {
+      "width": 1120,
+      "height": 318,
+      "layer": [
+        {
+          "data": {
+            "url": "data/ranking_monthly.json"
+          },
+          "mark": {
+            "type": "line",
+            "strokeWidth": 2.4,
+            "interpolate": "step-after",
+            "clip": true
+          },
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "title": null,
+              "scale": {
+                "domain": {
+                  "param": "rankBrush",
+                  "encoding": "x"
+                }
+              },
+              "axis": {
+                "labelFlush": true,
+                "labelOverlap": "greedy"
+              }
+            },
+            "y": {
+              "field": "rank",
+              "type": "quantitative",
+              "title": "ICC Rank (1 = best)",
+              "scale": {
+                "domain": [5.5, 0.5]
+              },
+              "axis": {
+                "values": [1, 2, 3, 4, 5],
+                "format": "d"
+              }
+            },
+            "color": {
+              "field": "format",
+              "type": "nominal",
+              "scale": {
+                "domain": ["Test", "ODI", "T20I"],
+                "range": ["#f0b429", "#2d8a52", "#2471a3"]
+              },
+              "legend": null
+            },
+            "detail": {
+              "field": "format"
+            }
+          }
+        },
+        {
+          "data": {
+            "url": "data/ranking_yearly.json"
+          },
+          "mark": {
+            "type": "point",
+            "filled": true,
+            "size": 50,
+            "clip": true
+          },
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "scale": {
+                "domain": {
+                  "param": "rankBrush",
+                  "encoding": "x"
+                }
+              }
+            },
+            "y": {
+              "field": "rank",
+              "type": "quantitative"
+            },
+            "color": {
+              "field": "format",
+              "type": "nominal",
+              "scale": {
+                "domain": ["Test", "ODI", "T20I"],
+                "range": ["#f0b429", "#2d8a52", "#2471a3"]
+              },
+              "legend": null
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "date": "2018-03-01"
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "strokeDash": [3, 3],
+            "strokeWidth": 1,
+            "color": "#e74c3c",
+            "opacity": 0.65,
+            "clip": true
+          },
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "scale": {
+                "domain": {
+                  "param": "rankBrush",
+                  "encoding": "x"
+                }
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "url": "data/ranking_annotations.json"
+          },
+          "transform": [
+            {
+              "filter": "datum.format !== 'All'"
+            }
+          ],
+          "mark": {
+            "type": "rule",
+            "strokeDash": [3, 3],
+            "strokeWidth": 1,
+            "opacity": 0.65,
+            "clip": true
+          },
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "scale": {
+                "domain": {
+                  "param": "rankBrush",
+                  "encoding": "x"
+                }
+              }
+            },
+            "y": {
+              "field": "labelRank",
+              "type": "quantitative"
+            },
+            "y2": {
+              "field": "pointRank"
+            },
+            "color": {
+              "field": "format",
+              "type": "nominal",
+              "scale": {
+                "domain": ["Test", "ODI", "T20I"],
+                "range": ["#f0b429", "#2d8a52", "#2471a3"]
+              },
+              "legend": null
+            }
+          }
+        },
+        {
+          "data": {
+            "url": "data/ranking_annotations.json"
+          },
+          "mark": {
+            "type": "text",
+            "font": "DM Sans",
+            "fontSize": 11,
+            "fontWeight":"bold",
+            "fontStyle": "italic",
+            "baseline": "middle",
+            "clip": true
+          },
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "scale": {
+                "domain": {
+                  "param": "rankBrush",
+                  "encoding": "x"
+                }
+              }
+            },
+            "y": {
+              "field": "labelRank",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "label"
+            },
+            "xOffset": {
+              "field": "dx"
+            },
+            "color": {
+              "field": "format",
+              "type": "nominal",
+              "scale": {
+                "domain": ["Test", "ODI", "T20I", "All"],
+                "range": ["#f0b429", "#1a5c35", "#2471a3", "#e74c3c"]
+              },
+              "legend": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "width": 1120,
+      "height": 58,
+      "data": {
+        "url": "data/ranking_monthly.json"
+      },
+      "params": [
+        {
+          "name": "rankBrush",
+          "select": {
+            "type": "interval",
+            "encodings": ["x"]
+          }
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "strokeWidth": 1.45,
+        "interpolate": "step-after",
+        "point": false,
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": "Drag this mini-chart to zoom",
+          "axis": {
+            "labelOverlap": true,
+            "labelFlush": true,
+            "labelFontSize": 9
+          }
+        },
+        "y": {
+          "field": "rank",
+          "type": "quantitative",
+          "title": null,
+          "scale": {
+            "domain": [5.5, 0.5]
+          },
+          "axis": null
+        },
+        "color": {
+          "field": "format",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Test", "ODI", "T20I"],
+            "range": ["#f0b429", "#2d8a52", "#2471a3"]
+          },
+          "legend": null
+        },
+        "detail": {
+          "field": "format"
+        }
+      }
+    }
+  ],
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "axis": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.55)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)",
+      "gridColor": "rgba(255,255,255,0.05)",
+      "domainColor": "rgba(255,255,255,0.12)",
+      "tickColor": "rgba(255,255,255,0.12)"
+    },
+    "legend": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.75)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)"
+    },
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}

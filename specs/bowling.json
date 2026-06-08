@@ -1,0 +1,198 @@
+{
+  "width": "container",
+  "height": 380,
+  "data": {
+    "url": "data/bowling.json"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 160,
+        "opacity": 0.9
+      },
+      "encoding": {
+        "x": {
+          "field": "wickets",
+          "type": "quantitative",
+          "title": "Test Wickets",
+          "scale": {
+            "domain": [
+              0,
+              800
+            ]
+          }
+        },
+        "y": {
+          "field": "average",
+          "type": "quantitative",
+          "title": "Bowling Average",
+          "scale": {
+            "domain": [
+              18,
+              36
+            ]
+          }
+        },
+        "color": {
+          "field": "bowl_type",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Pace",
+              "Spin"
+            ],
+            "range": [
+              "#e74c3c",
+              "#f0b429"
+            ]
+          },
+          "legend": {
+            "title": "Type",
+            "orient": "top-right",
+            "offset": 5
+          }
+        },
+        "tooltip": [
+          {
+            "field": "player"
+          },
+          {
+            "field": "wickets"
+          },
+          {
+            "field": "bowl_type",
+            "title": "Type"
+          },
+          {
+            "field": "average",
+            "format": ".2f"
+          },
+          {
+            "field": "economy",
+            "format": ".2f"
+          },
+          {
+            "field": "five_wickets",
+            "title": "5-wkt hauls"
+          },
+          {
+            "field": "era"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 9,
+        "fontSize": 10,
+        "font": "DM Sans",
+        "color": "rgba(232,224,206,0.8)"
+      },
+      "encoding": {
+        "x": {
+          "field": "wickets",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "average",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "player"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/bowling_annotations.json"
+      },
+      "mark": {
+        "type": "rule",
+        "strokeDash": [
+          3,
+          3
+        ],
+        "strokeWidth": 1,
+        "color": "rgba(240,180,41,0.38)"
+      },
+      "encoding": {
+        "x": {
+          "field": "wickets",
+          "type": "quantitative"
+        },
+        "x2": {
+          "field": "labelX"
+        },
+        "y": {
+          "field": "average",
+          "type": "quantitative"
+        },
+        "y2": {
+          "field": "labelY"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/bowling_annotations.json"
+      },
+      "mark": {
+        "type": "text",
+        "fontSize": 9,
+        "font": "DM Sans",
+        "fontStyle": "italic",
+        "color": "rgba(240,180,41,0.86)",
+        "dy": -4
+      },
+      "encoding": {
+        "x": {
+          "field": "labelX",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "labelY",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label"
+        },
+        "align": {
+          "field": "align",
+          "type": "nominal",
+          "scale": null,
+          "legend": null
+        },
+        "dx": {
+          "field": "dx"
+        }
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "axis": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.55)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)",
+      "gridColor": "rgba(255,255,255,0.05)",
+      "domainColor": "rgba(255,255,255,0.12)",
+      "tickColor": "rgba(255,255,255,0.12)"
+    },
+    "legend": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.75)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)"
+    },
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}

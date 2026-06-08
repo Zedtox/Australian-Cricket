@@ -1,0 +1,220 @@
+{
+  "width": "container",
+  "height": 360,
+  "data": {
+    "url": "data/world_cups.json"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 260,
+        "opacity": 0.92
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal",
+          "title": "Year",
+          "axis": {
+            "labelAngle": -38,
+            "labelColor": "rgba(232,224,206,0.5)"
+          }
+        },
+        "y": {
+          "field": "format",
+          "type": "nominal",
+          "title": "Format",
+          "sort": [
+            "ODI",
+            "T20I"
+          ]
+        },
+        "color": {
+          "field": "result",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Winner",
+              "Runner-up",
+              "Semi-final",
+              "Quarter-final",
+              "Group stage exit"
+            ],
+            "range": [
+              "#f0b429",
+              "#1a5c35",
+              "#2d8a52",
+              "#4a8a5a",
+              "#444"
+            ]
+          },
+          "legend": {
+            "title": "Result",
+            "orient": "right",
+            "offset": 8
+          }
+        },
+        "tooltip": [
+          {
+            "field": "year"
+          },
+          {
+            "field": "tournament"
+          },
+          {
+            "field": "result"
+          },
+          {
+            "field": "captain"
+          },
+          {
+            "field": "venue"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "year": 1999,
+            "year2": 2007,
+            "format": "ODI"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "strokeDash": [
+          2,
+          2
+        ],
+        "strokeWidth": 1,
+        "color": "rgba(240,180,41,0.45)",
+        "yOffset": -28
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal"
+        },
+        "x2": {
+          "field": "year2"
+        },
+        "y": {
+          "field": "format",
+          "type": "nominal",
+          "sort": [
+            "ODI",
+            "T20I"
+          ]
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "year": 2021,
+            "labelY": "T20I"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "color": "#f0b429",
+        "strokeWidth": 1,
+        "strokeDash": [
+          3,
+          3
+        ],
+        "xOffset": 0,
+        "yOffset": 14,
+        "x2Offset": -22,
+        "y2Offset": 40
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal"
+        },
+        "x2": {
+          "field": "year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "labelY",
+          "type": "nominal",
+          "sort": [
+            "ODI",
+            "T20I"
+          ]
+        },
+        "y2": {
+          "field": "labelY"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/world_cup_annotations.json"
+      },
+      "mark": {
+        "type": "text",
+        "fontSize": 9,
+        "font": "DM Sans",
+        "fontStyle": "italic",
+        "color": "#f0b429",
+        "baseline": "middle"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "labelY",
+          "type": "nominal",
+          "sort": [
+            "ODI",
+            "T20I"
+          ]
+        },
+        "text": {
+          "field": "label"
+        },
+        "yOffset": {
+          "field": "dy"
+        },
+        "xOffset": {
+          "field": "dx"
+        }
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "axis": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.55)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)",
+      "gridColor": "rgba(255,255,255,0.05)",
+      "domainColor": "rgba(255,255,255,0.12)",
+      "tickColor": "rgba(255,255,255,0.12)"
+    },
+    "legend": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.75)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)"
+    },
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}

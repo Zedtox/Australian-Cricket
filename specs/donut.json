@@ -1,0 +1,172 @@
+{
+  "width": "container",
+  "height": 360,
+  "data": {
+    "url": "data/donut.json"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "arc",
+        "innerRadius": 74,
+        "outerRadius": 126,
+        "stroke": "rgba(6,13,8,0.9)",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "theta": {
+          "field": "finals",
+          "type": "quantitative",
+          "stack": true
+        },
+        "color": {
+          "field": "nation",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Australia",
+              "West Indies",
+              "India",
+              "England",
+              "Others",
+              "Pakistan",
+              "Sri Lanka",
+              "New Zealand"
+            ],
+            "range": [
+              "#f0b429",
+              "#8b1010",
+              "#FF8800",
+              "#0b3d91",
+              "#555",
+              "#01411C",
+              "#1a5c9c",
+              "#222"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "nation"
+          },
+          {
+            "field": "finals"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "radius": 156,
+        "fontSize": 10,
+        "font": "DM Sans",
+        "fontWeight": "700",
+        "stroke": "#060d08",
+        "strokeWidth": 4
+      },
+      "encoding": {
+        "theta": {
+          "field": "finals",
+          "type": "quantitative",
+          "stack": true
+        },
+        "text": {
+          "field": "nation"
+        },
+        "color": {
+          "value": "#f7d070"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "radius": 156,
+        "fontSize": 10,
+        "font": "DM Sans",
+        "fontWeight": "700"
+      },
+      "encoding": {
+        "theta": {
+          "field": "finals",
+          "type": "quantitative",
+          "stack": true
+        },
+        "text": {
+          "field": "nation"
+        },
+        "color": {
+          "value": "#f7d070"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "t": "27"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "font": "Playfair Display",
+        "fontWeight": "700",
+        "fontSize": 26,
+        "color": "#F9F6EE",
+        "dy": -10
+      },
+      "encoding": {
+        "text": {
+          "field": "t"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "t": "FINALS TOTAL"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "dy": 16,
+        "font": "DM Mono",
+        "fontSize": 9,
+        "color": "#ffffff"
+      },
+      "encoding": {
+        "text": {
+          "field": "t"
+        }
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "axis": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.55)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)",
+      "gridColor": "rgba(255,255,255,0.05)",
+      "domainColor": "rgba(255,255,255,0.12)",
+      "tickColor": "rgba(255,255,255,0.12)"
+    },
+    "legend": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.75)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)"
+    },
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}

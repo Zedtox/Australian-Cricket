@@ -1,0 +1,178 @@
+{
+  "width": "container",
+  "height": 430,
+  "description": "Connected dot plot with annotation layer.",
+  "data": {
+    "url": "data/home_away.json"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "color": "rgba(240,180,41,0.25)",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "y": {
+          "field": "player",
+          "type": "nominal",
+          "title": null,
+          "sort": {
+            "field": "home_avg",
+            "order": "descending"
+          },
+          "axis": {
+            "labelColor": "rgba(232,224,206,0.75)",
+            "labelFontSize": 11
+          }
+        },
+        "x": {
+          "field": "away_avg",
+          "type": "quantitative",
+          "title": "Batting Average",
+          "scale": {
+            "domain": [
+              30,
+              110
+            ]
+          }
+        },
+        "x2": {
+          "field": "home_avg"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 100,
+        "color": "#1a5c35"
+      },
+      "encoding": {
+        "y": {
+          "field": "player",
+          "type": "nominal",
+          "sort": {
+            "field": "home_avg",
+            "order": "descending"
+          }
+        },
+        "x": {
+          "field": "away_avg",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "player"
+          },
+          {
+            "field": "away_avg",
+            "title": "Away Avg",
+            "format": ".2f"
+          },
+          {
+            "field": "era"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 100,
+        "color": "#f0b429"
+      },
+      "encoding": {
+        "y": {
+          "field": "player",
+          "type": "nominal",
+          "sort": {
+            "field": "home_avg",
+            "order": "descending"
+          }
+        },
+        "x": {
+          "field": "home_avg",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "player"
+          },
+          {
+            "field": "home_avg",
+            "title": "Home Avg",
+            "format": ".2f"
+          },
+          {
+            "field": "era"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/home_away_annotations.json"
+      },
+      "mark": {
+        "type": "text",
+        "fontSize": 9,
+        "font": "DM Sans",
+        "fontStyle": "italic",
+        "color": "rgba(240,180,41,0.9)",
+        "dx": 4
+      },
+      "encoding": {
+        "y": {
+          "field": "player",
+          "type": "nominal",
+          "sort": {
+            "field": "home_avg",
+            "order": "descending"
+          }
+        },
+        "x": {
+          "field": "labelX",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label"
+        },
+        "dy": {
+          "field": "dy"
+        },
+        "align": {
+          "field": "align",
+          "type": "nominal",
+          "scale": null,
+          "legend": null
+        }
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "background": "transparent",
+    "font": "DM Sans",
+    "axis": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.55)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)",
+      "gridColor": "rgba(255,255,255,0.05)",
+      "domainColor": "rgba(255,255,255,0.12)",
+      "tickColor": "rgba(255,255,255,0.12)"
+    },
+    "legend": {
+      "labelFont": "DM Sans",
+      "labelColor": "rgba(232,224,206,0.75)",
+      "titleFont": "DM Sans",
+      "titleColor": "rgba(232,224,206,0.55)"
+    },
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}

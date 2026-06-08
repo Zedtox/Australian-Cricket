@@ -1,0 +1,68 @@
+[
+  {
+    "captain": "Ricky Ponting",
+    "matches": 168,
+    "win_pct": 62,
+    "batting_avg": 51.85,
+    "wc_titles": 2,
+    "ashes_series": 4,
+    "test_runs": 13378,
+    "era": "1995-2012",
+    "photo": "ponting"
+  },
+  {
+    "captain": "Steve Waugh",
+    "matches": 168,
+    "win_pct": 58,
+    "batting_avg": 51.06,
+    "wc_titles": 1,
+    "ashes_series": 3,
+    "test_runs": 10927,
+    "era": "1985-2004",
+    "photo": "waugh"
+  },
+  {
+    "captain": "Allan Border",
+    "matches": 156,
+    "win_pct": 32,
+    "batting_avg": 50.56,
+    "wc_titles": 1,
+    "ashes_series": 2,
+    "test_runs": 11174,
+    "era": "1978-1994",
+    "photo": "border"
+  },
+  {
+    "captain": "Michael Clarke",
+    "matches": 115,
+    "win_pct": 53,
+    "batting_avg": 49.1,
+    "wc_titles": 1,
+    "ashes_series": 2,
+    "test_runs": 8643,
+    "era": "2004-2015",
+    "photo": "clarke"
+  },
+  {
+    "captain": "Pat Cummins",
+    "matches": 68,
+    "win_pct": 61,
+    "batting_avg": 15.2,
+    "wc_titles": 2,
+    "ashes_series": 2,
+    "test_runs": 850,
+    "era": "2021-present",
+    "photo": "cummins"
+  },
+  {
+    "captain": "Mark Taylor",
+    "matches": 104,
+    "win_pct": 42,
+    "batting_avg": 43.49,
+    "wc_titles": 0,
+    "ashes_series": 2,
+    "test_runs": 7525,
+    "era": "1989-1999",
+    "photo": "taylor"
+  }
+]

@@ -1,0 +1,742 @@
+[
+  {
+    "year": 1882,
+    "series": 1882,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 0,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win The Ashes"
+  },
+  {
+    "year": 1882,
+    "series": "1882-83",
+    "location": "Australia",
+    "aus_wins": 2,
+    "eng_wins": 2,
+    "draws": 0,
+    "winner": "Draw",
+    "margin_label": "Series drawn"
+  },
+  {
+    "year": 1884,
+    "series": 1884,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG retain"
+  },
+  {
+    "year": 1884,
+    "series": "1884-85",
+    "location": "Australia",
+    "aus_wins": 3,
+    "eng_wins": 2,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1886,
+    "series": 1886,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 3,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "ENG whitewash"
+  },
+  {
+    "year": 1886,
+    "series": "1886-87",
+    "location": "Australia",
+    "aus_wins": 2,
+    "eng_wins": 0,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1888,
+    "series": 1888,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 2,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1890,
+    "series": 1890,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 2,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1891,
+    "series": "1891-92",
+    "location": "Australia",
+    "aus_wins": 2,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1893,
+    "series": 1893,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1894,
+    "series": "1894-95",
+    "location": "Australia",
+    "aus_wins": 3,
+    "eng_wins": 2,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1896,
+    "series": 1896,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 2,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1897,
+    "series": "1897-98",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1899,
+    "series": 1899,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 1,
+    "draws": 4,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1901,
+    "series": "1901-02",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1902,
+    "series": 1902,
+    "location": "England",
+    "aus_wins": 2,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1903,
+    "series": "1903-04",
+    "location": "Australia",
+    "aus_wins": 2,
+    "eng_wins": 3,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1905,
+    "series": 1905,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 2,
+    "draws": 3,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1907,
+    "series": "1907-08",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1909,
+    "series": 1909,
+    "location": "England",
+    "aus_wins": 2,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1911,
+    "series": "1911-12",
+    "location": "Australia",
+    "aus_wins": 1,
+    "eng_wins": 4,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1912,
+    "series": 1912,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1920,
+    "series": "1920-21",
+    "location": "Australia",
+    "aus_wins": 5,
+    "eng_wins": 0,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS 5-0"
+  },
+  {
+    "year": 1921,
+    "series": 1921,
+    "location": "England",
+    "aus_wins": 3,
+    "eng_wins": 0,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1924,
+    "series": "1924-25",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1926,
+    "series": 1926,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 1,
+    "draws": 4,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1928,
+    "series": "1928-29",
+    "location": "Australia",
+    "aus_wins": 1,
+    "eng_wins": 4,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1930,
+    "series": 1930,
+    "location": "England",
+    "aus_wins": 2,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1932,
+    "series": "1932-33",
+    "location": "Australia",
+    "aus_wins": 1,
+    "eng_wins": 4,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "Bodyline \u2014 ENG win"
+  },
+  {
+    "year": 1934,
+    "series": 1934,
+    "location": "England",
+    "aus_wins": 2,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1936,
+    "series": "1936-37",
+    "location": "Australia",
+    "aus_wins": 3,
+    "eng_wins": 2,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1938,
+    "series": 1938,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 1,
+    "draws": 3,
+    "winner": "Draw",
+    "margin_label": "Series drawn"
+  },
+  {
+    "year": 1946,
+    "series": "1946-47",
+    "location": "Australia",
+    "aus_wins": 3,
+    "eng_wins": 0,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1948,
+    "series": 1948,
+    "location": "England",
+    "aus_wins": 4,
+    "eng_wins": 0,
+    "draws": 1,
+    "winner": "Australia",
+    "margin_label": "The Invincibles"
+  },
+  {
+    "year": 1950,
+    "series": "1950-51",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1953,
+    "series": 1953,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 1,
+    "draws": 4,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1954,
+    "series": "1954-55",
+    "location": "Australia",
+    "aus_wins": 1,
+    "eng_wins": 3,
+    "draws": 1,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1956,
+    "series": 1956,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 2,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1958,
+    "series": "1958-59",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 0,
+    "draws": 1,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1961,
+    "series": 1961,
+    "location": "England",
+    "aus_wins": 2,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1962,
+    "series": "1962-63",
+    "location": "Australia",
+    "aus_wins": 1,
+    "eng_wins": 1,
+    "draws": 3,
+    "winner": "Draw",
+    "margin_label": "Series drawn"
+  },
+  {
+    "year": 1964,
+    "series": 1964,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 0,
+    "draws": 4,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1965,
+    "series": "1965-66",
+    "location": "Australia",
+    "aus_wins": 1,
+    "eng_wins": 1,
+    "draws": 3,
+    "winner": "Draw",
+    "margin_label": "Series drawn"
+  },
+  {
+    "year": 1968,
+    "series": 1968,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 1,
+    "draws": 3,
+    "winner": "Draw",
+    "margin_label": "Series drawn"
+  },
+  {
+    "year": 1970,
+    "series": "1970-71",
+    "location": "Australia",
+    "aus_wins": 0,
+    "eng_wins": 2,
+    "draws": 4,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1972,
+    "series": 1972,
+    "location": "England",
+    "aus_wins": 2,
+    "eng_wins": 2,
+    "draws": 1,
+    "winner": "Draw",
+    "margin_label": "Series drawn"
+  },
+  {
+    "year": 1974,
+    "series": "1974-75",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1975,
+    "series": 1975,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 0,
+    "draws": 3,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1977,
+    "series": 1977,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 3,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1978,
+    "series": "1978-79",
+    "location": "Australia",
+    "aus_wins": 1,
+    "eng_wins": 5,
+    "draws": 0,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1979,
+    "series": "1979-80",
+    "location": "Australia",
+    "aus_wins": 3,
+    "eng_wins": 0,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1981,
+    "series": 1981,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 3,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "Botham's Ashes"
+  },
+  {
+    "year": 1982,
+    "series": "1982-83",
+    "location": "Australia",
+    "aus_wins": 2,
+    "eng_wins": 1,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1985,
+    "series": 1985,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 3,
+    "draws": 1,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1986,
+    "series": "1986-87",
+    "location": "Australia",
+    "aus_wins": 1,
+    "eng_wins": 2,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 1989,
+    "series": 1989,
+    "location": "England",
+    "aus_wins": 4,
+    "eng_wins": 0,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1990,
+    "series": "1990-91",
+    "location": "Australia",
+    "aus_wins": 3,
+    "eng_wins": 0,
+    "draws": 2,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1993,
+    "series": 1993,
+    "location": "England",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 1,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1994,
+    "series": "1994-95",
+    "location": "Australia",
+    "aus_wins": 3,
+    "eng_wins": 1,
+    "draws": 1,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1997,
+    "series": 1997,
+    "location": "England",
+    "aus_wins": 3,
+    "eng_wins": 2,
+    "draws": 1,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 1998,
+    "series": "1998-99",
+    "location": "Australia",
+    "aus_wins": 3,
+    "eng_wins": 1,
+    "draws": 1,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 2001,
+    "series": 2001,
+    "location": "England",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 2002,
+    "series": "2002-03",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 1,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 2005,
+    "series": 2005,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 2,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "Iconic ENG win"
+  },
+  {
+    "year": 2006,
+    "series": "2006-07",
+    "location": "Australia",
+    "aus_wins": 5,
+    "eng_wins": 0,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS 5-0 whitewash"
+  },
+  {
+    "year": 2009,
+    "series": 2009,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 2,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 2010,
+    "series": "2010-11",
+    "location": "Australia",
+    "aus_wins": 0,
+    "eng_wins": 3,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 2013,
+    "series": 2013,
+    "location": "England",
+    "aus_wins": 0,
+    "eng_wins": 3,
+    "draws": 2,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 2013,
+    "series": "2013-14",
+    "location": "Australia",
+    "aus_wins": 5,
+    "eng_wins": 0,
+    "draws": 0,
+    "winner": "Australia",
+    "margin_label": "AUS 5-0 whitewash"
+  },
+  {
+    "year": 2015,
+    "series": 2015,
+    "location": "England",
+    "aus_wins": 1,
+    "eng_wins": 3,
+    "draws": 1,
+    "winner": "England",
+    "margin_label": "ENG win"
+  },
+  {
+    "year": 2017,
+    "series": "2017-18",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 0,
+    "draws": 1,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 2019,
+    "series": 2019,
+    "location": "England",
+    "aus_wins": 2,
+    "eng_wins": 2,
+    "draws": 1,
+    "winner": "Draw",
+    "margin_label": "Series drawn"
+  },
+  {
+    "year": 2021,
+    "series": "2021-22",
+    "location": "Australia",
+    "aus_wins": 4,
+    "eng_wins": 0,
+    "draws": 1,
+    "winner": "Australia",
+    "margin_label": "AUS win"
+  },
+  {
+    "year": 2023,
+    "series": 2023,
+    "location": "England",
+    "aus_wins": 2,
+    "eng_wins": 2,
+    "draws": 1,
+    "winner": "Draw",
+    "margin_label": "Bazball draw"
+  }
+]

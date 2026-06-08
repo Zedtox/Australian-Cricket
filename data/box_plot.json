@@ -1,0 +1,82 @@
+[
+  {
+    "player": "Don Bradman",
+    "min_runs": 0,
+    "q1": 22,
+    "median": 62,
+    "mean": 100,
+    "q3": 110,
+    "max_runs": 334,
+    "batter_type": "Middle Order"
+  },
+  {
+    "player": "Steve Smith",
+    "min_runs": 1,
+    "q1": 13,
+    "median": 37,
+    "mean": 59,
+    "q3": 65,
+    "max_runs": 239,
+    "batter_type": "Middle Order"
+  },
+  {
+    "player": "Ricky Ponting",
+    "min_runs": 3,
+    "q1": 11,
+    "median": 32,
+    "mean": 52,
+    "q3": 57,
+    "max_runs": 257,
+    "batter_type": "Middle Order"
+  },
+  {
+    "player": "Greg Chappell",
+    "min_runs": 5,
+    "q1": 12,
+    "median": 33,
+    "mean": 54,
+    "q3": 59,
+    "max_runs": 247,
+    "batter_type": "Middle Order"
+  },
+  {
+    "player": "Matthew Hayden",
+    "min_runs": 0,
+    "q1": 11,
+    "median": 31,
+    "mean": 51,
+    "q3": 56,
+    "max_runs": 380,
+    "batter_type": "Opener"
+  },
+  {
+    "player": "David Warner",
+    "min_runs": 2,
+    "q1": 10,
+    "median": 28,
+    "mean": 45,
+    "q3": 49,
+    "max_runs": 335,
+    "batter_type": "Opener"
+  },
+  {
+    "player": "Allan Border",
+    "min_runs": 11,
+    "q1": 11,
+    "median": 31,
+    "mean": 51,
+    "q3": 56,
+    "max_runs": 205,
+    "batter_type": "Middle Order"
+  },
+  {
+    "player": "Michael Clarke",
+    "min_runs": 8,
+    "q1": 11,
+    "median": 30,
+    "mean": 49,
+    "q3": 54,
+    "max_runs": 329,
+    "batter_type": "Middle Order"
+  }
+]

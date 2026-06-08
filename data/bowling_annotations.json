@@ -1,0 +1,22 @@
+[
+  {
+    "player": "Shane Warne",
+    "wickets": 708,
+    "average": 25.41,
+    "label": "708 wkts \u2014 elite spin",
+    "labelX": 640,
+    "labelY": 25.95,
+    "align": "right",
+    "dx": -8
+  },
+  {
+    "player": "Glenn McGrath",
+    "wickets": 563,
+    "average": 21.64,
+    "label": "Low avg + huge volume",
+    "labelX": 535,
+    "labelY": 22.55,
+    "align": "right",
+    "dx": -8
+  }
+]

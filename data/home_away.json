@@ -1,0 +1,100 @@
+[
+  {
+    "player": "Don Bradman",
+    "home_avg": 101.22,
+    "away_avg": 91.4,
+    "era": "1928-1948",
+    "role": "Batter"
+  },
+  {
+    "player": "Steve Smith",
+    "home_avg": 64.23,
+    "away_avg": 55.02,
+    "era": "2010-2024",
+    "role": "Batter"
+  },
+  {
+    "player": "Ricky Ponting",
+    "home_avg": 56.12,
+    "away_avg": 48.33,
+    "era": "1995-2012",
+    "role": "Batter"
+  },
+  {
+    "player": "Greg Chappell",
+    "home_avg": 58.44,
+    "away_avg": 49.67,
+    "era": "1970-1984",
+    "role": "Batter"
+  },
+  {
+    "player": "Matthew Hayden",
+    "home_avg": 55.21,
+    "away_avg": 46.82,
+    "era": "1994-2009",
+    "role": "Batter"
+  },
+  {
+    "player": "Allan Border",
+    "home_avg": 52.31,
+    "away_avg": 49.12,
+    "era": "1978-1994",
+    "role": "Batter"
+  },
+  {
+    "player": "Michael Clarke",
+    "home_avg": 52.89,
+    "away_avg": 46.14,
+    "era": "2004-2015",
+    "role": "Batter"
+  },
+  {
+    "player": "Justin Langer",
+    "home_avg": 48.22,
+    "away_avg": 42.91,
+    "era": "1993-2007",
+    "role": "Batter"
+  },
+  {
+    "player": "David Warner",
+    "home_avg": 53.11,
+    "away_avg": 37.84,
+    "era": "2011-2023",
+    "role": "Batter"
+  },
+  {
+    "player": "Mark Taylor",
+    "home_avg": 46.33,
+    "away_avg": 40.92,
+    "era": "1989-1999",
+    "role": "Batter"
+  },
+  {
+    "player": "Adam Gilchrist",
+    "home_avg": 52.44,
+    "away_avg": 43.21,
+    "era": "1999-2008",
+    "role": "Wicketkeeper"
+  },
+  {
+    "player": "Marnus Labuschagne",
+    "home_avg": 58.12,
+    "away_avg": 47.21,
+    "era": "2018-2024",
+    "role": "Batter"
+  },
+  {
+    "player": "Travis Head",
+    "home_avg": 51.34,
+    "away_avg": 38.42,
+    "era": "2015-2024",
+    "role": "Batter"
+  },
+  {
+    "player": "Usman Khawaja",
+    "home_avg": 54.88,
+    "away_avg": 44.33,
+    "era": "2011-2024",
+    "role": "Batter"
+  }
+]

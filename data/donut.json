@@ -1,0 +1,34 @@
+[
+  {
+    "nation": "Australia",
+    "finals": 8
+  },
+  {
+    "nation": "India",
+    "finals": 3
+  },
+  {
+    "nation": "West Indies",
+    "finals": 3
+  },
+  {
+    "nation": "England",
+    "finals": 3
+  },
+  {
+    "nation": "Others",
+    "finals": 4
+  },
+  {
+    "nation": "Pakistan",
+    "finals": 2
+  },
+  {
+    "nation": "Sri Lanka",
+    "finals": 2
+  },
+  {
+    "nation": "New Zealand",
+    "finals": 2
+  }
+]

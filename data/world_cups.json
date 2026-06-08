@@ -1,0 +1,222 @@
+[
+  {
+    "year": 1975,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Semi-final",
+    "opponent_final": "England",
+    "aus_score": "_",
+    "opp_score": "_",
+    "venue": "Headingley",
+    "captain": "Ian Chappell"
+  },
+  {
+    "year": 1979,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Semi-final",
+    "opponent_final": "England",
+    "aus_score": "_",
+    "opp_score": "_",
+    "venue": "Headingley",
+    "captain": "Kim Hughes"
+  },
+  {
+    "year": 1983,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Group stage exit",
+    "opponent_final": "_",
+    "aus_score": "_",
+    "opp_score": "_",
+    "venue": "Various",
+    "captain": "Kim Hughes"
+  },
+  {
+    "year": 1987,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Winner",
+    "opponent_final": "England",
+    "aus_score": "253/5",
+    "opp_score": "246/8",
+    "venue": "Eden Gardens",
+    "captain": "Allan Border"
+  },
+  {
+    "year": 1992,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Runner-up",
+    "opponent_final": "Pakistan",
+    "aus_score": "229/6",
+    "opp_score": "249/6",
+    "venue": "Melbourne",
+    "captain": "Allan Border"
+  },
+  {
+    "year": 1996,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Semi-final",
+    "opponent_final": "West Indies",
+    "aus_score": "207/8",
+    "opp_score": "4/190",
+    "venue": "Mohali",
+    "captain": "Mark Taylor"
+  },
+  {
+    "year": 1999,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Winner",
+    "opponent_final": "Pakistan",
+    "aus_score": "133/2",
+    "opp_score": 132,
+    "venue": "Lord's",
+    "captain": "Steve Waugh"
+  },
+  {
+    "year": 2003,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Winner",
+    "opponent_final": "India",
+    "aus_score": "359/2",
+    "opp_score": 234,
+    "venue": "Johannesburg",
+    "captain": "Ricky Ponting"
+  },
+  {
+    "year": 2007,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Winner",
+    "opponent_final": "Sri Lanka",
+    "aus_score": "281/4",
+    "opp_score": "215/8",
+    "venue": "Barbados",
+    "captain": "Ricky Ponting"
+  },
+  {
+    "year": 2011,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Quarter-final",
+    "opponent_final": "India",
+    "aus_score": 224,
+    "opp_score": "4/48",
+    "venue": "Ahmedabad",
+    "captain": "Ricky Ponting"
+  },
+  {
+    "year": 2015,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Winner",
+    "opponent_final": "New Zealand",
+    "aus_score": "186/3",
+    "opp_score": 183,
+    "venue": "Melbourne",
+    "captain": "Michael Clarke"
+  },
+  {
+    "year": 2019,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Semi-final",
+    "opponent_final": "England",
+    "aus_score": 223,
+    "opp_score": "226/2",
+    "venue": "Edgbaston",
+    "captain": "Aaron Finch"
+  },
+  {
+    "year": 2023,
+    "tournament": "Cricket World Cup",
+    "format": "ODI",
+    "result": "Winner",
+    "opponent_final": "India",
+    "aus_score": "241/4",
+    "opp_score": 240,
+    "venue": "Ahmedabad",
+    "captain": "Pat Cummins"
+  },
+  {
+    "year": 2010,
+    "tournament": "T20 World Cup",
+    "format": "T20I",
+    "result": "Runner-up",
+    "opponent_final": "England",
+    "aus_score": "147/6",
+    "opp_score": "148/3",
+    "venue": "Bridgetown",
+    "captain": "Michael Clarke"
+  },
+  {
+    "year": 2012,
+    "tournament": "T20 World Cup",
+    "format": "T20I",
+    "result": "Semi-final",
+    "opponent_final": "West Indies",
+    "aus_score": "_",
+    "opp_score": "_",
+    "venue": "Various",
+    "captain": "George Bailey"
+  },
+  {
+    "year": 2014,
+    "tournament": "T20 World Cup",
+    "format": "T20I",
+    "result": "Semi-final",
+    "opponent_final": "India",
+    "aus_score": "_",
+    "opp_score": "_",
+    "venue": "Various",
+    "captain": "George Bailey"
+  },
+  {
+    "year": 2016,
+    "tournament": "T20 World Cup",
+    "format": "T20I",
+    "result": "Group stage exit",
+    "opponent_final": "_",
+    "aus_score": "_",
+    "opp_score": "_",
+    "venue": "Various",
+    "captain": "Steve Smith"
+  },
+  {
+    "year": 2021,
+    "tournament": "T20 World Cup",
+    "format": "T20I",
+    "result": "Winner",
+    "opponent_final": "New Zealand",
+    "aus_score": "173/2",
+    "opp_score": "172/4",
+    "venue": "Dubai",
+    "captain": "Aaron Finch"
+  },
+  {
+    "year": 2022,
+    "tournament": "T20 World Cup",
+    "format": "T20I",
+    "result": "Semi-final",
+    "opponent_final": "England",
+    "aus_score": "_",
+    "opp_score": "_",
+    "venue": "Various",
+    "captain": "Aaron Finch"
+  },
+  {
+    "year": 2024,
+    "tournament": "T20 World Cup",
+    "format": "T20I",
+    "result": "Group stage exit",
+    "opponent_final": "_",
+    "aus_score": "_",
+    "opp_score": "_",
+    "venue": "Various",
+    "captain": "Mitchell Marsh"
+  }
+]

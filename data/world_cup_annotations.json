@@ -1,0 +1,16 @@
+[
+  {
+    "year": 2003,
+    "labelY": "ODI",
+    "label": "First team to win three in a row",
+    "dx": -95,
+    "dy": -55
+  },
+  {
+    "year": 2021,
+    "labelY": "T20I",
+    "label": "First T20 WC win",
+    "dx": -28,
+    "dy": 78
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "player": "Don Bradman",
+    "home_avg": 101.22,
+    "away_avg": 91.4,
+    "label": "Best average everywhere",
+    "labelX": 77,
+    "dy": -24,
+    "align": "left"
+  },
+  {
+    "player": "David Warner",
+    "home_avg": 53.11,
+    "away_avg": 37.84,
+    "label": "Poorer away record",
+    "labelX": 63,
+    "dy": 0,
+    "align": "left"
+  },
+  {
+    "player": "Allan Border",
+    "home_avg": 52.31,
+    "away_avg": 49.12,
+    "label": "Most consistent",
+    "labelX": 60,
+    "dy": 0,
+    "align": "left"
+  }
+]

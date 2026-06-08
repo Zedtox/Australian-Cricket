@@ -1,0 +1,5472 @@
+[
+  {
+    "id": 0,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.732,
+    "lat": -34.899,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 1,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.93,
+    "lat": -34.513,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 2,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.579,
+    "lat": -34.491,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 3,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.565,
+    "lat": -31.026,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 4,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.809,
+    "lat": -28.993,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 5,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.414,
+    "lat": -33.127,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 6,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 122.359,
+    "lat": -29.966,
+    "color": "#f47920"
+  },
+  {
+    "id": 7,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.824,
+    "lat": -27.764,
+    "color": "#f47920"
+  },
+  {
+    "id": 8,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 119.657,
+    "lat": -23.447,
+    "color": "#f47920"
+  },
+  {
+    "id": 9,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 116.827,
+    "lat": -23.752,
+    "color": "#f47920"
+  },
+  {
+    "id": 10,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.2,
+    "lat": -28.257,
+    "color": "#f47920"
+  },
+  {
+    "id": 11,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.734,
+    "lat": -37.114,
+    "color": "#00a650"
+  },
+  {
+    "id": 12,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.872,
+    "lat": -37.293,
+    "color": "#00a650"
+  },
+  {
+    "id": 13,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.013,
+    "lat": -37.892,
+    "color": "#00a650"
+  },
+  {
+    "id": 14,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.038,
+    "lat": -38.089,
+    "color": "#00a650"
+  },
+  {
+    "id": 15,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.875,
+    "lat": -21.52,
+    "color": "#e4002b"
+  },
+  {
+    "id": 16,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 143.545,
+    "lat": -16.397,
+    "color": "#e4002b"
+  },
+  {
+    "id": 17,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.266,
+    "lat": -15.326,
+    "color": "#e4002b"
+  },
+  {
+    "id": 18,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.36,
+    "lat": -32.842,
+    "color": "#005aab"
+  },
+  {
+    "id": 19,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.866,
+    "lat": -33.392,
+    "color": "#005aab"
+  },
+  {
+    "id": 20,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.835,
+    "lat": -29.046,
+    "color": "#005aab"
+  },
+  {
+    "id": 21,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 146.914,
+    "lat": -35.868,
+    "color": "#e5002b"
+  },
+  {
+    "id": 22,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 145.301,
+    "lat": -38.589,
+    "color": "#e5002b"
+  },
+  {
+    "id": 23,
+    "season": "2011-12",
+    "season_idx": 0,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 142.117,
+    "lat": -37.279,
+    "color": "#e5002b"
+  },
+  {
+    "id": 24,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.836,
+    "lat": -31.864,
+    "color": "#f47920"
+  },
+  {
+    "id": 25,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.105,
+    "lat": -31.796,
+    "color": "#f47920"
+  },
+  {
+    "id": 26,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.718,
+    "lat": -32.921,
+    "color": "#f47920"
+  },
+  {
+    "id": 27,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.956,
+    "lat": -25.672,
+    "color": "#f47920"
+  },
+  {
+    "id": 28,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 117.41,
+    "lat": -21.979,
+    "color": "#f47920"
+  },
+  {
+    "id": 29,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.665,
+    "lat": -30.04,
+    "color": "#f47920"
+  },
+  {
+    "id": 30,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.091,
+    "lat": -27.343,
+    "color": "#f47920"
+  },
+  {
+    "id": 31,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.166,
+    "lat": -28.047,
+    "color": "#f47920"
+  },
+  {
+    "id": 32,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 146.34,
+    "lat": -16.089,
+    "color": "#e4002b"
+  },
+  {
+    "id": 33,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.571,
+    "lat": -16.905,
+    "color": "#e4002b"
+  },
+  {
+    "id": 34,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.196,
+    "lat": -18.539,
+    "color": "#e4002b"
+  },
+  {
+    "id": 35,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.296,
+    "lat": -23.284,
+    "color": "#e4002b"
+  },
+  {
+    "id": 36,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.158,
+    "lat": -26.989,
+    "color": "#e4002b"
+  },
+  {
+    "id": 37,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 140.09,
+    "lat": -26.513,
+    "color": "#e4002b"
+  },
+  {
+    "id": 38,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.664,
+    "lat": -34.839,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 39,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.988,
+    "lat": -30.335,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 40,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.884,
+    "lat": -29.731,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 41,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.438,
+    "lat": -29.921,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 42,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.988,
+    "lat": -35.921,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 43,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.802,
+    "lat": -31.814,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 44,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.143,
+    "lat": -42.681,
+    "color": "#6f2082"
+  },
+  {
+    "id": 45,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.197,
+    "lat": -41.226,
+    "color": "#6f2082"
+  },
+  {
+    "id": 46,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.198,
+    "lat": -42.206,
+    "color": "#6f2082"
+  },
+  {
+    "id": 47,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.113,
+    "lat": -42.978,
+    "color": "#6f2082"
+  },
+  {
+    "id": 48,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.639,
+    "lat": -40.985,
+    "color": "#6f2082"
+  },
+  {
+    "id": 49,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.608,
+    "lat": -37.504,
+    "color": "#00a650"
+  },
+  {
+    "id": 50,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.22,
+    "lat": -37.766,
+    "color": "#00a650"
+  },
+  {
+    "id": 51,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.272,
+    "lat": -36.74,
+    "color": "#00a650"
+  },
+  {
+    "id": 52,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.985,
+    "lat": -26.258,
+    "color": "#005aab"
+  },
+  {
+    "id": 53,
+    "season": "2012-13",
+    "season_idx": 1,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.266,
+    "lat": -32.814,
+    "color": "#005aab"
+  },
+  {
+    "id": 54,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.711,
+    "lat": -23.56,
+    "color": "#f47920"
+  },
+  {
+    "id": 55,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 117.997,
+    "lat": -28.851,
+    "color": "#f47920"
+  },
+  {
+    "id": 56,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.018,
+    "lat": -31.878,
+    "color": "#f47920"
+  },
+  {
+    "id": 57,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.254,
+    "lat": -19.507,
+    "color": "#f47920"
+  },
+  {
+    "id": 58,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.075,
+    "lat": -25.956,
+    "color": "#f47920"
+  },
+  {
+    "id": 59,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.886,
+    "lat": -20.756,
+    "color": "#f47920"
+  },
+  {
+    "id": 60,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.458,
+    "lat": -25.535,
+    "color": "#f47920"
+  },
+  {
+    "id": 61,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.789,
+    "lat": -42.584,
+    "color": "#6f2082"
+  },
+  {
+    "id": 62,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.645,
+    "lat": -42.218,
+    "color": "#6f2082"
+  },
+  {
+    "id": 63,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.975,
+    "lat": -41.734,
+    "color": "#6f2082"
+  },
+  {
+    "id": 64,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.847,
+    "lat": -41.572,
+    "color": "#6f2082"
+  },
+  {
+    "id": 65,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.813,
+    "lat": -40.83,
+    "color": "#6f2082"
+  },
+  {
+    "id": 66,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147,
+    "lat": -42.144,
+    "color": "#6f2082"
+  },
+  {
+    "id": 67,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.539,
+    "lat": -29.4,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 68,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.263,
+    "lat": -31.164,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 69,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.055,
+    "lat": -28.783,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 70,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.046,
+    "lat": -31.18,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 71,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.873,
+    "lat": -31.379,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 72,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.757,
+    "lat": -30.556,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 73,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.395,
+    "lat": -25.763,
+    "color": "#e4002b"
+  },
+  {
+    "id": 74,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.326,
+    "lat": -24.162,
+    "color": "#e4002b"
+  },
+  {
+    "id": 75,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 142.799,
+    "lat": -27.427,
+    "color": "#e4002b"
+  },
+  {
+    "id": 76,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 144.381,
+    "lat": -28.982,
+    "color": "#e4002b"
+  },
+  {
+    "id": 77,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 141.726,
+    "lat": -19.588,
+    "color": "#e4002b"
+  },
+  {
+    "id": 78,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.738,
+    "lat": -38.198,
+    "color": "#00a650"
+  },
+  {
+    "id": 79,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.924,
+    "lat": -37.368,
+    "color": "#00a650"
+  },
+  {
+    "id": 80,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.026,
+    "lat": -36.454,
+    "color": "#00a650"
+  },
+  {
+    "id": 81,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.411,
+    "lat": -30.32,
+    "color": "#005aab"
+  },
+  {
+    "id": 82,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 135.748,
+    "lat": -28.802,
+    "color": "#005aab"
+  },
+  {
+    "id": 83,
+    "season": "2013-14",
+    "season_idx": 2,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 136.554,
+    "lat": -27.35,
+    "color": "#005aab"
+  },
+  {
+    "id": 84,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.227,
+    "lat": -30.196,
+    "color": "#f47920"
+  },
+  {
+    "id": 85,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.247,
+    "lat": -31.528,
+    "color": "#f47920"
+  },
+  {
+    "id": 86,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.69,
+    "lat": -24.873,
+    "color": "#f47920"
+  },
+  {
+    "id": 87,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 126.534,
+    "lat": -27.165,
+    "color": "#f47920"
+  },
+  {
+    "id": 88,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 119.431,
+    "lat": -25.199,
+    "color": "#f47920"
+  },
+  {
+    "id": 89,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 126.38,
+    "lat": -24.768,
+    "color": "#f47920"
+  },
+  {
+    "id": 90,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.542,
+    "lat": -22.407,
+    "color": "#f47920"
+  },
+  {
+    "id": 91,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 126.902,
+    "lat": -21.889,
+    "color": "#f47920"
+  },
+  {
+    "id": 92,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 119.781,
+    "lat": -30.588,
+    "color": "#f47920"
+  },
+  {
+    "id": 93,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.53,
+    "lat": -31.201,
+    "color": "#f47920"
+  },
+  {
+    "id": 94,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.545,
+    "lat": -32.928,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 95,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.302,
+    "lat": -30.885,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 96,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.845,
+    "lat": -28.865,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 97,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.931,
+    "lat": -34.499,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 98,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.689,
+    "lat": -31.919,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 99,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.618,
+    "lat": -33.439,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 100,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.113,
+    "lat": -29.004,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 101,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.333,
+    "lat": -29.357,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 102,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.614,
+    "lat": -32.689,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 103,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.847,
+    "lat": -38.476,
+    "color": "#00a650"
+  },
+  {
+    "id": 104,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.198,
+    "lat": -37.32,
+    "color": "#00a650"
+  },
+  {
+    "id": 105,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.077,
+    "lat": -37.711,
+    "color": "#00a650"
+  },
+  {
+    "id": 106,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.471,
+    "lat": -37.693,
+    "color": "#00a650"
+  },
+  {
+    "id": 107,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.669,
+    "lat": -36.991,
+    "color": "#00a650"
+  },
+  {
+    "id": 108,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.665,
+    "lat": -36.799,
+    "color": "#00a650"
+  },
+  {
+    "id": 109,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.915,
+    "lat": -37.458,
+    "color": "#00a650"
+  },
+  {
+    "id": 110,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.83,
+    "lat": -36.936,
+    "color": "#00a650"
+  },
+  {
+    "id": 111,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 131.88,
+    "lat": -34.639,
+    "color": "#005aab"
+  },
+  {
+    "id": 112,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.239,
+    "lat": -32.7,
+    "color": "#005aab"
+  },
+  {
+    "id": 113,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.544,
+    "lat": -33.415,
+    "color": "#005aab"
+  },
+  {
+    "id": 114,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 135.013,
+    "lat": -28.045,
+    "color": "#005aab"
+  },
+  {
+    "id": 115,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.842,
+    "lat": -26.946,
+    "color": "#005aab"
+  },
+  {
+    "id": 116,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 132.437,
+    "lat": -33.282,
+    "color": "#005aab"
+  },
+  {
+    "id": 117,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.704,
+    "lat": -31.348,
+    "color": "#005aab"
+  },
+  {
+    "id": 118,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.679,
+    "lat": -42.724,
+    "color": "#6f2082"
+  },
+  {
+    "id": 119,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.677,
+    "lat": -41.516,
+    "color": "#6f2082"
+  },
+  {
+    "id": 120,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.958,
+    "lat": -41.244,
+    "color": "#6f2082"
+  },
+  {
+    "id": 121,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.244,
+    "lat": -41.573,
+    "color": "#6f2082"
+  },
+  {
+    "id": 122,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.174,
+    "lat": -41.22,
+    "color": "#6f2082"
+  },
+  {
+    "id": 123,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.802,
+    "lat": -27.789,
+    "color": "#e4002b"
+  },
+  {
+    "id": 124,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 147.11,
+    "lat": -19.947,
+    "color": "#e4002b"
+  },
+  {
+    "id": 125,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.999,
+    "lat": -16.808,
+    "color": "#e4002b"
+  },
+  {
+    "id": 126,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 146.603,
+    "lat": -20.39,
+    "color": "#e4002b"
+  },
+  {
+    "id": 127,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 145.803,
+    "lat": -36.867,
+    "color": "#e5002b"
+  },
+  {
+    "id": 128,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 143.7,
+    "lat": -38.542,
+    "color": "#e5002b"
+  },
+  {
+    "id": 129,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 143.712,
+    "lat": -36.825,
+    "color": "#e5002b"
+  },
+  {
+    "id": 130,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 146.004,
+    "lat": -35.063,
+    "color": "#f0b429"
+  },
+  {
+    "id": 131,
+    "season": "2014-15",
+    "season_idx": 3,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 145.389,
+    "lat": -32.528,
+    "color": "#f0b429"
+  },
+  {
+    "id": 132,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 152.233,
+    "lat": -30.654,
+    "color": "#f0b429"
+  },
+  {
+    "id": 133,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 144.6,
+    "lat": -33.485,
+    "color": "#f0b429"
+  },
+  {
+    "id": 134,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 149.957,
+    "lat": -35.724,
+    "color": "#f0b429"
+  },
+  {
+    "id": 135,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 150.859,
+    "lat": -34.617,
+    "color": "#f0b429"
+  },
+  {
+    "id": 136,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 148.051,
+    "lat": -30.157,
+    "color": "#f0b429"
+  },
+  {
+    "id": 137,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 151.494,
+    "lat": -35.859,
+    "color": "#f0b429"
+  },
+  {
+    "id": 138,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 151.038,
+    "lat": -29.497,
+    "color": "#f0b429"
+  },
+  {
+    "id": 139,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 151.209,
+    "lat": -30.308,
+    "color": "#f0b429"
+  },
+  {
+    "id": 140,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 147.485,
+    "lat": -33.993,
+    "color": "#f0b429"
+  },
+  {
+    "id": 141,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 131.865,
+    "lat": -31.035,
+    "color": "#005aab"
+  },
+  {
+    "id": 142,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.905,
+    "lat": -33.412,
+    "color": "#005aab"
+  },
+  {
+    "id": 143,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 139.049,
+    "lat": -26.19,
+    "color": "#005aab"
+  },
+  {
+    "id": 144,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.977,
+    "lat": -32.043,
+    "color": "#005aab"
+  },
+  {
+    "id": 145,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 132.489,
+    "lat": -30.725,
+    "color": "#005aab"
+  },
+  {
+    "id": 146,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 132.078,
+    "lat": -31.463,
+    "color": "#005aab"
+  },
+  {
+    "id": 147,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 136.352,
+    "lat": -31.827,
+    "color": "#005aab"
+  },
+  {
+    "id": 148,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.176,
+    "lat": -31.73,
+    "color": "#005aab"
+  },
+  {
+    "id": 149,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.949,
+    "lat": -32.516,
+    "color": "#f47920"
+  },
+  {
+    "id": 150,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.767,
+    "lat": -24.456,
+    "color": "#f47920"
+  },
+  {
+    "id": 151,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 121.576,
+    "lat": -23.289,
+    "color": "#f47920"
+  },
+  {
+    "id": 152,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.222,
+    "lat": -20.917,
+    "color": "#f47920"
+  },
+  {
+    "id": 153,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.465,
+    "lat": -27.406,
+    "color": "#f47920"
+  },
+  {
+    "id": 154,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 121.147,
+    "lat": -20.383,
+    "color": "#f47920"
+  },
+  {
+    "id": 155,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 117.734,
+    "lat": -25.662,
+    "color": "#f47920"
+  },
+  {
+    "id": 156,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 126.9,
+    "lat": -30.03,
+    "color": "#f47920"
+  },
+  {
+    "id": 157,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.682,
+    "lat": -35.189,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 158,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.037,
+    "lat": -33.022,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 159,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.024,
+    "lat": -36.27,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 160,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.116,
+    "lat": -29.295,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 161,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.938,
+    "lat": -34.096,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 162,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 152.414,
+    "lat": -34.463,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 163,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.138,
+    "lat": -33.055,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 164,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 138.039,
+    "lat": -19.99,
+    "color": "#e4002b"
+  },
+  {
+    "id": 165,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 144.036,
+    "lat": -15.883,
+    "color": "#e4002b"
+  },
+  {
+    "id": 166,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.72,
+    "lat": -27.964,
+    "color": "#e4002b"
+  },
+  {
+    "id": 167,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.059,
+    "lat": -24.222,
+    "color": "#e4002b"
+  },
+  {
+    "id": 168,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.585,
+    "lat": -16.163,
+    "color": "#e4002b"
+  },
+  {
+    "id": 169,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.092,
+    "lat": -21.973,
+    "color": "#e4002b"
+  },
+  {
+    "id": 170,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 143.163,
+    "lat": -36.981,
+    "color": "#e5002b"
+  },
+  {
+    "id": 171,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 143.042,
+    "lat": -36.136,
+    "color": "#e5002b"
+  },
+  {
+    "id": 172,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 144.182,
+    "lat": -38.095,
+    "color": "#e5002b"
+  },
+  {
+    "id": 173,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 146.003,
+    "lat": -38.296,
+    "color": "#e5002b"
+  },
+  {
+    "id": 174,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 145.691,
+    "lat": -37.955,
+    "color": "#e5002b"
+  },
+  {
+    "id": 175,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 146.205,
+    "lat": -37.93,
+    "color": "#e5002b"
+  },
+  {
+    "id": 176,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.257,
+    "lat": -36.683,
+    "color": "#00a650"
+  },
+  {
+    "id": 177,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.523,
+    "lat": -36.088,
+    "color": "#00a650"
+  },
+  {
+    "id": 178,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.716,
+    "lat": -37.996,
+    "color": "#00a650"
+  },
+  {
+    "id": 179,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.622,
+    "lat": -36.639,
+    "color": "#00a650"
+  },
+  {
+    "id": 180,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.105,
+    "lat": -37.127,
+    "color": "#00a650"
+  },
+  {
+    "id": 181,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.217,
+    "lat": -42.599,
+    "color": "#6f2082"
+  },
+  {
+    "id": 182,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.301,
+    "lat": -42.398,
+    "color": "#6f2082"
+  },
+  {
+    "id": 183,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.567,
+    "lat": -41.296,
+    "color": "#6f2082"
+  },
+  {
+    "id": 184,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.089,
+    "lat": -43.108,
+    "color": "#6f2082"
+  },
+  {
+    "id": 185,
+    "season": "2015-16",
+    "season_idx": 4,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.186,
+    "lat": -42.745,
+    "color": "#6f2082"
+  },
+  {
+    "id": 186,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.6,
+    "lat": -28.9,
+    "color": "#f47920"
+  },
+  {
+    "id": 187,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.219,
+    "lat": -20.076,
+    "color": "#f47920"
+  },
+  {
+    "id": 188,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.059,
+    "lat": -24.918,
+    "color": "#f47920"
+  },
+  {
+    "id": 189,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.544,
+    "lat": -22.84,
+    "color": "#f47920"
+  },
+  {
+    "id": 190,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 116.369,
+    "lat": -28.176,
+    "color": "#f47920"
+  },
+  {
+    "id": 191,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 116.708,
+    "lat": -28.729,
+    "color": "#f47920"
+  },
+  {
+    "id": 192,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.125,
+    "lat": -26.666,
+    "color": "#f47920"
+  },
+  {
+    "id": 193,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 126.323,
+    "lat": -32.619,
+    "color": "#f47920"
+  },
+  {
+    "id": 194,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 117.779,
+    "lat": -24.484,
+    "color": "#f47920"
+  },
+  {
+    "id": 195,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.018,
+    "lat": -27.686,
+    "color": "#f47920"
+  },
+  {
+    "id": 196,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.371,
+    "lat": -33.956,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 197,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.502,
+    "lat": -32.193,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 198,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.738,
+    "lat": -36.328,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 199,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.908,
+    "lat": -34.723,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 200,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.466,
+    "lat": -30.416,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 201,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.064,
+    "lat": -36.494,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 202,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.412,
+    "lat": -33.013,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 203,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.035,
+    "lat": -28.719,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 204,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.458,
+    "lat": -30.763,
+    "color": "#005aab"
+  },
+  {
+    "id": 205,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.509,
+    "lat": -27.323,
+    "color": "#005aab"
+  },
+  {
+    "id": 206,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.734,
+    "lat": -32.372,
+    "color": "#005aab"
+  },
+  {
+    "id": 207,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.197,
+    "lat": -26.916,
+    "color": "#005aab"
+  },
+  {
+    "id": 208,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.686,
+    "lat": -32.565,
+    "color": "#005aab"
+  },
+  {
+    "id": 209,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.943,
+    "lat": -32.803,
+    "color": "#005aab"
+  },
+  {
+    "id": 210,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.109,
+    "lat": -33.975,
+    "color": "#005aab"
+  },
+  {
+    "id": 211,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.51,
+    "lat": -28.787,
+    "color": "#005aab"
+  },
+  {
+    "id": 212,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.729,
+    "lat": -42.139,
+    "color": "#6f2082"
+  },
+  {
+    "id": 213,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.334,
+    "lat": -43.16,
+    "color": "#6f2082"
+  },
+  {
+    "id": 214,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.231,
+    "lat": -43.014,
+    "color": "#6f2082"
+  },
+  {
+    "id": 215,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.15,
+    "lat": -41.43,
+    "color": "#6f2082"
+  },
+  {
+    "id": 216,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.847,
+    "lat": -41.365,
+    "color": "#6f2082"
+  },
+  {
+    "id": 217,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.706,
+    "lat": -41.511,
+    "color": "#6f2082"
+  },
+  {
+    "id": 218,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.277,
+    "lat": -40.969,
+    "color": "#6f2082"
+  },
+  {
+    "id": 219,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 141.851,
+    "lat": -15.051,
+    "color": "#e4002b"
+  },
+  {
+    "id": 220,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.26,
+    "lat": -21.516,
+    "color": "#e4002b"
+  },
+  {
+    "id": 221,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.458,
+    "lat": -27.518,
+    "color": "#e4002b"
+  },
+  {
+    "id": 222,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 141.438,
+    "lat": -18.148,
+    "color": "#e4002b"
+  },
+  {
+    "id": 223,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 138.817,
+    "lat": -16.046,
+    "color": "#e4002b"
+  },
+  {
+    "id": 224,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 143.445,
+    "lat": -22.139,
+    "color": "#e4002b"
+  },
+  {
+    "id": 225,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 152.469,
+    "lat": -35.819,
+    "color": "#f0b429"
+  },
+  {
+    "id": 226,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 144.659,
+    "lat": -31.995,
+    "color": "#f0b429"
+  },
+  {
+    "id": 227,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 149.574,
+    "lat": -29.6,
+    "color": "#f0b429"
+  },
+  {
+    "id": 228,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 146.039,
+    "lat": -29.434,
+    "color": "#f0b429"
+  },
+  {
+    "id": 229,
+    "season": "2016-17",
+    "season_idx": 5,
+    "team": "Sydney Thunder",
+    "state": "NSW",
+    "lon": 149.761,
+    "lat": -31.87,
+    "color": "#f0b429"
+  },
+  {
+    "id": 230,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 131.657,
+    "lat": -27.007,
+    "color": "#005aab"
+  },
+  {
+    "id": 231,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.245,
+    "lat": -28.322,
+    "color": "#005aab"
+  },
+  {
+    "id": 232,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 139.446,
+    "lat": -34.873,
+    "color": "#005aab"
+  },
+  {
+    "id": 233,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.938,
+    "lat": -25.614,
+    "color": "#005aab"
+  },
+  {
+    "id": 234,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.795,
+    "lat": -26.621,
+    "color": "#005aab"
+  },
+  {
+    "id": 235,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.052,
+    "lat": -28.093,
+    "color": "#005aab"
+  },
+  {
+    "id": 236,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 139.487,
+    "lat": -27.943,
+    "color": "#005aab"
+  },
+  {
+    "id": 237,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 132.337,
+    "lat": -26.581,
+    "color": "#005aab"
+  },
+  {
+    "id": 238,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.514,
+    "lat": -31.138,
+    "color": "#005aab"
+  },
+  {
+    "id": 239,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.289,
+    "lat": -42.554,
+    "color": "#6f2082"
+  },
+  {
+    "id": 240,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.579,
+    "lat": -42.6,
+    "color": "#6f2082"
+  },
+  {
+    "id": 241,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.96,
+    "lat": -42.82,
+    "color": "#6f2082"
+  },
+  {
+    "id": 242,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.822,
+    "lat": -42.903,
+    "color": "#6f2082"
+  },
+  {
+    "id": 243,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.246,
+    "lat": -41.212,
+    "color": "#6f2082"
+  },
+  {
+    "id": 244,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.752,
+    "lat": -42.261,
+    "color": "#6f2082"
+  },
+  {
+    "id": 245,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.665,
+    "lat": -41.765,
+    "color": "#6f2082"
+  },
+  {
+    "id": 246,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.653,
+    "lat": -40.808,
+    "color": "#6f2082"
+  },
+  {
+    "id": 247,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.309,
+    "lat": -42.464,
+    "color": "#6f2082"
+  },
+  {
+    "id": 248,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.083,
+    "lat": -32.499,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 249,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.576,
+    "lat": -32.824,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 250,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.692,
+    "lat": -33.867,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 251,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.53,
+    "lat": -32.48,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 252,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.409,
+    "lat": -31.685,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 253,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.065,
+    "lat": -32.054,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 254,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.751,
+    "lat": -31.917,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 255,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.202,
+    "lat": -30.217,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 256,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.998,
+    "lat": -36.32,
+    "color": "#00a650"
+  },
+  {
+    "id": 257,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.053,
+    "lat": -38.435,
+    "color": "#00a650"
+  },
+  {
+    "id": 258,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.289,
+    "lat": -38.449,
+    "color": "#00a650"
+  },
+  {
+    "id": 259,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.976,
+    "lat": -35.9,
+    "color": "#00a650"
+  },
+  {
+    "id": 260,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.883,
+    "lat": -37.804,
+    "color": "#00a650"
+  },
+  {
+    "id": 261,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.573,
+    "lat": -36.506,
+    "color": "#00a650"
+  },
+  {
+    "id": 262,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.54,
+    "lat": -38.18,
+    "color": "#00a650"
+  },
+  {
+    "id": 263,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.775,
+    "lat": -36.777,
+    "color": "#00a650"
+  },
+  {
+    "id": 264,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 116.068,
+    "lat": -31.438,
+    "color": "#f47920"
+  },
+  {
+    "id": 265,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.302,
+    "lat": -21.275,
+    "color": "#f47920"
+  },
+  {
+    "id": 266,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.573,
+    "lat": -28.313,
+    "color": "#f47920"
+  },
+  {
+    "id": 267,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.514,
+    "lat": -23.918,
+    "color": "#f47920"
+  },
+  {
+    "id": 268,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.001,
+    "lat": -25.408,
+    "color": "#f47920"
+  },
+  {
+    "id": 269,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 119.193,
+    "lat": -28.126,
+    "color": "#f47920"
+  },
+  {
+    "id": 270,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.516,
+    "lat": -28.449,
+    "color": "#f47920"
+  },
+  {
+    "id": 271,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.952,
+    "lat": -15.795,
+    "color": "#e4002b"
+  },
+  {
+    "id": 272,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.967,
+    "lat": -17.089,
+    "color": "#e4002b"
+  },
+  {
+    "id": 273,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 147.732,
+    "lat": -20.207,
+    "color": "#e4002b"
+  },
+  {
+    "id": 274,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.258,
+    "lat": -18.943,
+    "color": "#e4002b"
+  },
+  {
+    "id": 275,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.526,
+    "lat": -20.548,
+    "color": "#e4002b"
+  },
+  {
+    "id": 276,
+    "season": "2017-18",
+    "season_idx": 6,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 144.689,
+    "lat": -18.801,
+    "color": "#e4002b"
+  },
+  {
+    "id": 277,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 146.225,
+    "lat": -37.098,
+    "color": "#e5002b"
+  },
+  {
+    "id": 278,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 142.103,
+    "lat": -36.882,
+    "color": "#e5002b"
+  },
+  {
+    "id": 279,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 143.72,
+    "lat": -38.315,
+    "color": "#e5002b"
+  },
+  {
+    "id": 280,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 142.229,
+    "lat": -37.098,
+    "color": "#e5002b"
+  },
+  {
+    "id": 281,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 146.775,
+    "lat": -37.026,
+    "color": "#e5002b"
+  },
+  {
+    "id": 282,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 146.17,
+    "lat": -38.181,
+    "color": "#e5002b"
+  },
+  {
+    "id": 283,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 143.645,
+    "lat": -35.834,
+    "color": "#e5002b"
+  },
+  {
+    "id": 284,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 145.444,
+    "lat": -36.52,
+    "color": "#e5002b"
+  },
+  {
+    "id": 285,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Renegades",
+    "state": "VIC",
+    "lon": 143.478,
+    "lat": -36.696,
+    "color": "#e5002b"
+  },
+  {
+    "id": 286,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.245,
+    "lat": -34.911,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 287,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.761,
+    "lat": -35.096,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 288,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.24,
+    "lat": -33.372,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 289,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.44,
+    "lat": -32.142,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 290,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.481,
+    "lat": -31.368,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 291,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.878,
+    "lat": -34.428,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 292,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.848,
+    "lat": -28.646,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 293,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.314,
+    "lat": -35.995,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 294,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.948,
+    "lat": -29.148,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 295,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 142.413,
+    "lat": -24.612,
+    "color": "#e4002b"
+  },
+  {
+    "id": 296,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 140.843,
+    "lat": -27.261,
+    "color": "#e4002b"
+  },
+  {
+    "id": 297,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.969,
+    "lat": -24.95,
+    "color": "#e4002b"
+  },
+  {
+    "id": 298,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.199,
+    "lat": -23.29,
+    "color": "#e4002b"
+  },
+  {
+    "id": 299,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.547,
+    "lat": -19.662,
+    "color": "#e4002b"
+  },
+  {
+    "id": 300,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.779,
+    "lat": -27.185,
+    "color": "#e4002b"
+  },
+  {
+    "id": 301,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.641,
+    "lat": -19.739,
+    "color": "#e4002b"
+  },
+  {
+    "id": 302,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 147.213,
+    "lat": -15.763,
+    "color": "#e4002b"
+  },
+  {
+    "id": 303,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 121.577,
+    "lat": -25.509,
+    "color": "#f47920"
+  },
+  {
+    "id": 304,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 116.709,
+    "lat": -27.242,
+    "color": "#f47920"
+  },
+  {
+    "id": 305,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 121.629,
+    "lat": -29.288,
+    "color": "#f47920"
+  },
+  {
+    "id": 306,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.211,
+    "lat": -27.625,
+    "color": "#f47920"
+  },
+  {
+    "id": 307,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.052,
+    "lat": -28.161,
+    "color": "#f47920"
+  },
+  {
+    "id": 308,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.755,
+    "lat": -29.801,
+    "color": "#f47920"
+  },
+  {
+    "id": 309,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 122.815,
+    "lat": -26.003,
+    "color": "#f47920"
+  },
+  {
+    "id": 310,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.905,
+    "lat": -41.329,
+    "color": "#6f2082"
+  },
+  {
+    "id": 311,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.966,
+    "lat": -42.896,
+    "color": "#6f2082"
+  },
+  {
+    "id": 312,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.434,
+    "lat": -43.032,
+    "color": "#6f2082"
+  },
+  {
+    "id": 313,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.065,
+    "lat": -40.903,
+    "color": "#6f2082"
+  },
+  {
+    "id": 314,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.895,
+    "lat": -40.975,
+    "color": "#6f2082"
+  },
+  {
+    "id": 315,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.066,
+    "lat": -41.423,
+    "color": "#6f2082"
+  },
+  {
+    "id": 316,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.886,
+    "lat": -38.506,
+    "color": "#00a650"
+  },
+  {
+    "id": 317,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.141,
+    "lat": -36.527,
+    "color": "#00a650"
+  },
+  {
+    "id": 318,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.661,
+    "lat": -37.347,
+    "color": "#00a650"
+  },
+  {
+    "id": 319,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.216,
+    "lat": -36.414,
+    "color": "#00a650"
+  },
+  {
+    "id": 320,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.483,
+    "lat": -36.545,
+    "color": "#00a650"
+  },
+  {
+    "id": 321,
+    "season": "2018-19",
+    "season_idx": 7,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.083,
+    "lat": -38.566,
+    "color": "#00a650"
+  },
+  {
+    "id": 322,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.261,
+    "lat": -28.618,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 323,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.951,
+    "lat": -29.395,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 324,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 152.262,
+    "lat": -29.166,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 325,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.895,
+    "lat": -34.192,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 326,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.37,
+    "lat": -30.338,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 327,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.279,
+    "lat": -36.239,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 328,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 144.952,
+    "lat": -36.239,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 329,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.493,
+    "lat": -33.352,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 330,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.471,
+    "lat": -30.422,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 331,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.614,
+    "lat": -34.226,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 332,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.289,
+    "lat": -29.373,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 333,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.457,
+    "lat": -38.604,
+    "color": "#00a650"
+  },
+  {
+    "id": 334,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.648,
+    "lat": -36.23,
+    "color": "#00a650"
+  },
+  {
+    "id": 335,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.681,
+    "lat": -38.097,
+    "color": "#00a650"
+  },
+  {
+    "id": 336,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.075,
+    "lat": -36.67,
+    "color": "#00a650"
+  },
+  {
+    "id": 337,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.888,
+    "lat": -37.938,
+    "color": "#00a650"
+  },
+  {
+    "id": 338,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.204,
+    "lat": -37.533,
+    "color": "#00a650"
+  },
+  {
+    "id": 339,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.062,
+    "lat": -35.731,
+    "color": "#00a650"
+  },
+  {
+    "id": 340,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.79,
+    "lat": -37.79,
+    "color": "#00a650"
+  },
+  {
+    "id": 341,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.001,
+    "lat": -38.184,
+    "color": "#00a650"
+  },
+  {
+    "id": 342,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.706,
+    "lat": -19.167,
+    "color": "#e4002b"
+  },
+  {
+    "id": 343,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 140.781,
+    "lat": -16.34,
+    "color": "#e4002b"
+  },
+  {
+    "id": 344,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.525,
+    "lat": -19.03,
+    "color": "#e4002b"
+  },
+  {
+    "id": 345,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 138.213,
+    "lat": -21.6,
+    "color": "#e4002b"
+  },
+  {
+    "id": 346,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 140.669,
+    "lat": -25.419,
+    "color": "#e4002b"
+  },
+  {
+    "id": 347,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 142.721,
+    "lat": -23.385,
+    "color": "#e4002b"
+  },
+  {
+    "id": 348,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.611,
+    "lat": -23.756,
+    "color": "#e4002b"
+  },
+  {
+    "id": 349,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.991,
+    "lat": -26.819,
+    "color": "#e4002b"
+  },
+  {
+    "id": 350,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.564,
+    "lat": -29.113,
+    "color": "#f47920"
+  },
+  {
+    "id": 351,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.072,
+    "lat": -24.182,
+    "color": "#f47920"
+  },
+  {
+    "id": 352,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 123.778,
+    "lat": -30.517,
+    "color": "#f47920"
+  },
+  {
+    "id": 353,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 121.801,
+    "lat": -23.33,
+    "color": "#f47920"
+  },
+  {
+    "id": 354,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.579,
+    "lat": -27.415,
+    "color": "#f47920"
+  },
+  {
+    "id": 355,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 123.017,
+    "lat": -30.853,
+    "color": "#f47920"
+  },
+  {
+    "id": 356,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 126.485,
+    "lat": -30.032,
+    "color": "#f47920"
+  },
+  {
+    "id": 357,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.353,
+    "lat": -41.55,
+    "color": "#6f2082"
+  },
+  {
+    "id": 358,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.956,
+    "lat": -41.344,
+    "color": "#6f2082"
+  },
+  {
+    "id": 359,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.596,
+    "lat": -42.412,
+    "color": "#6f2082"
+  },
+  {
+    "id": 360,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.647,
+    "lat": -43.045,
+    "color": "#6f2082"
+  },
+  {
+    "id": 361,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.672,
+    "lat": -41.691,
+    "color": "#6f2082"
+  },
+  {
+    "id": 362,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.742,
+    "lat": -40.828,
+    "color": "#6f2082"
+  },
+  {
+    "id": 363,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 132.754,
+    "lat": -32.555,
+    "color": "#005aab"
+  },
+  {
+    "id": 364,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.761,
+    "lat": -25.461,
+    "color": "#005aab"
+  },
+  {
+    "id": 365,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.229,
+    "lat": -33.155,
+    "color": "#005aab"
+  },
+  {
+    "id": 366,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.298,
+    "lat": -34.138,
+    "color": "#005aab"
+  },
+  {
+    "id": 367,
+    "season": "2019-20",
+    "season_idx": 8,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 135.266,
+    "lat": -32.847,
+    "color": "#005aab"
+  },
+  {
+    "id": 368,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 152.307,
+    "lat": -32.998,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 369,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.545,
+    "lat": -28.851,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 370,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.719,
+    "lat": -28.56,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 371,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.929,
+    "lat": -29.522,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 372,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.976,
+    "lat": -34.284,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 373,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 152.186,
+    "lat": -31.516,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 374,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.647,
+    "lat": -31.95,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 375,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.029,
+    "lat": -35.414,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 376,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.368,
+    "lat": -32.948,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 377,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.966,
+    "lat": -31.007,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 378,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.846,
+    "lat": -24.659,
+    "color": "#f47920"
+  },
+  {
+    "id": 379,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 121.429,
+    "lat": -24.395,
+    "color": "#f47920"
+  },
+  {
+    "id": 380,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.348,
+    "lat": -26.225,
+    "color": "#f47920"
+  },
+  {
+    "id": 381,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 126.58,
+    "lat": -20.368,
+    "color": "#f47920"
+  },
+  {
+    "id": 382,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.454,
+    "lat": -31.302,
+    "color": "#f47920"
+  },
+  {
+    "id": 383,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.878,
+    "lat": -27.666,
+    "color": "#f47920"
+  },
+  {
+    "id": 384,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.664,
+    "lat": -28.599,
+    "color": "#f47920"
+  },
+  {
+    "id": 385,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.718,
+    "lat": -30.265,
+    "color": "#f47920"
+  },
+  {
+    "id": 386,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.534,
+    "lat": -31.296,
+    "color": "#f47920"
+  },
+  {
+    "id": 387,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.916,
+    "lat": -22.985,
+    "color": "#e4002b"
+  },
+  {
+    "id": 388,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 144.492,
+    "lat": -18.435,
+    "color": "#e4002b"
+  },
+  {
+    "id": 389,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 148.41,
+    "lat": -27.418,
+    "color": "#e4002b"
+  },
+  {
+    "id": 390,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.065,
+    "lat": -26.357,
+    "color": "#e4002b"
+  },
+  {
+    "id": 391,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.456,
+    "lat": -18.2,
+    "color": "#e4002b"
+  },
+  {
+    "id": 392,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 141.046,
+    "lat": -24.157,
+    "color": "#e4002b"
+  },
+  {
+    "id": 393,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.71,
+    "lat": -15.586,
+    "color": "#e4002b"
+  },
+  {
+    "id": 394,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 147.204,
+    "lat": -28.454,
+    "color": "#e4002b"
+  },
+  {
+    "id": 395,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.659,
+    "lat": -41.752,
+    "color": "#6f2082"
+  },
+  {
+    "id": 396,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.62,
+    "lat": -41.959,
+    "color": "#6f2082"
+  },
+  {
+    "id": 397,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.019,
+    "lat": -42.093,
+    "color": "#6f2082"
+  },
+  {
+    "id": 398,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.429,
+    "lat": -41.211,
+    "color": "#6f2082"
+  },
+  {
+    "id": 399,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.04,
+    "lat": -41.04,
+    "color": "#6f2082"
+  },
+  {
+    "id": 400,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.732,
+    "lat": -43.158,
+    "color": "#6f2082"
+  },
+  {
+    "id": 401,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.356,
+    "lat": -42.798,
+    "color": "#6f2082"
+  },
+  {
+    "id": 402,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 139.14,
+    "lat": -26.78,
+    "color": "#005aab"
+  },
+  {
+    "id": 403,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.988,
+    "lat": -32.865,
+    "color": "#005aab"
+  },
+  {
+    "id": 404,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.499,
+    "lat": -25.859,
+    "color": "#005aab"
+  },
+  {
+    "id": 405,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.759,
+    "lat": -26.851,
+    "color": "#005aab"
+  },
+  {
+    "id": 406,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.45,
+    "lat": -33.138,
+    "color": "#005aab"
+  },
+  {
+    "id": 407,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 136.912,
+    "lat": -31.657,
+    "color": "#005aab"
+  },
+  {
+    "id": 408,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.508,
+    "lat": -36.766,
+    "color": "#00a650"
+  },
+  {
+    "id": 409,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.242,
+    "lat": -38.656,
+    "color": "#00a650"
+  },
+  {
+    "id": 410,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.143,
+    "lat": -37.092,
+    "color": "#00a650"
+  },
+  {
+    "id": 411,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.451,
+    "lat": -38.376,
+    "color": "#00a650"
+  },
+  {
+    "id": 412,
+    "season": "2020-21",
+    "season_idx": 9,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.673,
+    "lat": -35.844,
+    "color": "#00a650"
+  },
+  {
+    "id": 413,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 123.541,
+    "lat": -20.069,
+    "color": "#f47920"
+  },
+  {
+    "id": 414,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 123.28,
+    "lat": -20.031,
+    "color": "#f47920"
+  },
+  {
+    "id": 415,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.042,
+    "lat": -27.783,
+    "color": "#f47920"
+  },
+  {
+    "id": 416,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 119.385,
+    "lat": -28.253,
+    "color": "#f47920"
+  },
+  {
+    "id": 417,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.235,
+    "lat": -28.521,
+    "color": "#f47920"
+  },
+  {
+    "id": 418,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 123.925,
+    "lat": -19.709,
+    "color": "#f47920"
+  },
+  {
+    "id": 419,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 126.065,
+    "lat": -27.538,
+    "color": "#f47920"
+  },
+  {
+    "id": 420,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 122.237,
+    "lat": -29.769,
+    "color": "#f47920"
+  },
+  {
+    "id": 421,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.705,
+    "lat": -20.239,
+    "color": "#f47920"
+  },
+  {
+    "id": 422,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 121.462,
+    "lat": -31.771,
+    "color": "#f47920"
+  },
+  {
+    "id": 423,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.354,
+    "lat": -30.188,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 424,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.947,
+    "lat": -35.608,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 425,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.61,
+    "lat": -33.933,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 426,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.267,
+    "lat": -34.535,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 427,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.202,
+    "lat": -32.074,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 428,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.924,
+    "lat": -33.327,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 429,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.236,
+    "lat": -36.442,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 430,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.229,
+    "lat": -34.975,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 431,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.649,
+    "lat": -30.619,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 432,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.536,
+    "lat": -41.093,
+    "color": "#6f2082"
+  },
+  {
+    "id": 433,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.738,
+    "lat": -41.098,
+    "color": "#6f2082"
+  },
+  {
+    "id": 434,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.069,
+    "lat": -43.052,
+    "color": "#6f2082"
+  },
+  {
+    "id": 435,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.099,
+    "lat": -40.831,
+    "color": "#6f2082"
+  },
+  {
+    "id": 436,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.408,
+    "lat": -43.057,
+    "color": "#6f2082"
+  },
+  {
+    "id": 437,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.863,
+    "lat": -42.351,
+    "color": "#6f2082"
+  },
+  {
+    "id": 438,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.777,
+    "lat": -42.444,
+    "color": "#6f2082"
+  },
+  {
+    "id": 439,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.717,
+    "lat": -42.604,
+    "color": "#6f2082"
+  },
+  {
+    "id": 440,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.158,
+    "lat": -38.361,
+    "color": "#00a650"
+  },
+  {
+    "id": 441,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.991,
+    "lat": -36.278,
+    "color": "#00a650"
+  },
+  {
+    "id": 442,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.88,
+    "lat": -36.789,
+    "color": "#00a650"
+  },
+  {
+    "id": 443,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.429,
+    "lat": -37.75,
+    "color": "#00a650"
+  },
+  {
+    "id": 444,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.922,
+    "lat": -38.281,
+    "color": "#00a650"
+  },
+  {
+    "id": 445,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.08,
+    "lat": -35.765,
+    "color": "#00a650"
+  },
+  {
+    "id": 446,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.883,
+    "lat": -38.056,
+    "color": "#00a650"
+  },
+  {
+    "id": 447,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 134.925,
+    "lat": -29.904,
+    "color": "#005aab"
+  },
+  {
+    "id": 448,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.746,
+    "lat": -25.368,
+    "color": "#005aab"
+  },
+  {
+    "id": 449,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.525,
+    "lat": -30.537,
+    "color": "#005aab"
+  },
+  {
+    "id": 450,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.314,
+    "lat": -27.473,
+    "color": "#005aab"
+  },
+  {
+    "id": 451,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 135.649,
+    "lat": -27.851,
+    "color": "#005aab"
+  },
+  {
+    "id": 452,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.497,
+    "lat": -25.284,
+    "color": "#005aab"
+  },
+  {
+    "id": 453,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 147.419,
+    "lat": -26.127,
+    "color": "#e4002b"
+  },
+  {
+    "id": 454,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 144.644,
+    "lat": -18.952,
+    "color": "#e4002b"
+  },
+  {
+    "id": 455,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 140.097,
+    "lat": -15.151,
+    "color": "#e4002b"
+  },
+  {
+    "id": 456,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 141.265,
+    "lat": -17.122,
+    "color": "#e4002b"
+  },
+  {
+    "id": 457,
+    "season": "2021-22",
+    "season_idx": 10,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 138.177,
+    "lat": -27.781,
+    "color": "#e4002b"
+  },
+  {
+    "id": 458,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 138.188,
+    "lat": -27.773,
+    "color": "#e4002b"
+  },
+  {
+    "id": 459,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 138.894,
+    "lat": -27.894,
+    "color": "#e4002b"
+  },
+  {
+    "id": 460,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 146.679,
+    "lat": -16.113,
+    "color": "#e4002b"
+  },
+  {
+    "id": 461,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 147.566,
+    "lat": -17.544,
+    "color": "#e4002b"
+  },
+  {
+    "id": 462,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 147.351,
+    "lat": -26.562,
+    "color": "#e4002b"
+  },
+  {
+    "id": 463,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 142.625,
+    "lat": -28.343,
+    "color": "#e4002b"
+  },
+  {
+    "id": 464,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 140.156,
+    "lat": -26.257,
+    "color": "#e4002b"
+  },
+  {
+    "id": 465,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 143.557,
+    "lat": -16.073,
+    "color": "#e4002b"
+  },
+  {
+    "id": 466,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 142.254,
+    "lat": -19.354,
+    "color": "#e4002b"
+  },
+  {
+    "id": 467,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.775,
+    "lat": -34.042,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 468,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 144.842,
+    "lat": -34.769,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 469,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.104,
+    "lat": -32.378,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 470,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.029,
+    "lat": -31.285,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 471,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 149.398,
+    "lat": -35.614,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 472,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 151.38,
+    "lat": -33.169,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 473,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.191,
+    "lat": -36.23,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 474,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 148.344,
+    "lat": -35.547,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 475,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.524,
+    "lat": -34.886,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 476,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 117.055,
+    "lat": -27.034,
+    "color": "#f47920"
+  },
+  {
+    "id": 477,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.929,
+    "lat": -20.263,
+    "color": "#f47920"
+  },
+  {
+    "id": 478,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 125.269,
+    "lat": -31.875,
+    "color": "#f47920"
+  },
+  {
+    "id": 479,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 117.906,
+    "lat": -21.336,
+    "color": "#f47920"
+  },
+  {
+    "id": 480,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.215,
+    "lat": -25.5,
+    "color": "#f47920"
+  },
+  {
+    "id": 481,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 123.124,
+    "lat": -26.83,
+    "color": "#f47920"
+  },
+  {
+    "id": 482,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 122.299,
+    "lat": -24.328,
+    "color": "#f47920"
+  },
+  {
+    "id": 483,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 123.929,
+    "lat": -19.394,
+    "color": "#f47920"
+  },
+  {
+    "id": 484,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 135.652,
+    "lat": -33.701,
+    "color": "#005aab"
+  },
+  {
+    "id": 485,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.664,
+    "lat": -25.259,
+    "color": "#005aab"
+  },
+  {
+    "id": 486,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 135.798,
+    "lat": -25.662,
+    "color": "#005aab"
+  },
+  {
+    "id": 487,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.516,
+    "lat": -27.493,
+    "color": "#005aab"
+  },
+  {
+    "id": 488,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 137.843,
+    "lat": -28.921,
+    "color": "#005aab"
+  },
+  {
+    "id": 489,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 132.37,
+    "lat": -33.648,
+    "color": "#005aab"
+  },
+  {
+    "id": 490,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.447,
+    "lat": -28.576,
+    "color": "#005aab"
+  },
+  {
+    "id": 491,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.514,
+    "lat": -42.635,
+    "color": "#6f2082"
+  },
+  {
+    "id": 492,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.624,
+    "lat": -42.899,
+    "color": "#6f2082"
+  },
+  {
+    "id": 493,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.757,
+    "lat": -41.375,
+    "color": "#6f2082"
+  },
+  {
+    "id": 494,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.873,
+    "lat": -43.161,
+    "color": "#6f2082"
+  },
+  {
+    "id": 495,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.155,
+    "lat": -41.589,
+    "color": "#6f2082"
+  },
+  {
+    "id": 496,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.635,
+    "lat": -41.764,
+    "color": "#6f2082"
+  },
+  {
+    "id": 497,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.361,
+    "lat": -38.107,
+    "color": "#00a650"
+  },
+  {
+    "id": 498,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.546,
+    "lat": -37.944,
+    "color": "#00a650"
+  },
+  {
+    "id": 499,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.663,
+    "lat": -38.236,
+    "color": "#00a650"
+  },
+  {
+    "id": 500,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.903,
+    "lat": -37.653,
+    "color": "#00a650"
+  },
+  {
+    "id": 501,
+    "season": "2022-23",
+    "season_idx": 11,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.258,
+    "lat": -35.83,
+    "color": "#00a650"
+  },
+  {
+    "id": 502,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 147.247,
+    "lat": -31.113,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 503,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.178,
+    "lat": -34.274,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 504,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.276,
+    "lat": -32.443,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 505,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 145.313,
+    "lat": -30.048,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 506,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.086,
+    "lat": -35.499,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 507,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.726,
+    "lat": -34.443,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 508,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 152.053,
+    "lat": -29.302,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 509,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.22,
+    "lat": -31.52,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 510,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 150.512,
+    "lat": -32.326,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 511,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Sydney Sixers",
+    "state": "NSW",
+    "lon": 146.743,
+    "lat": -29.699,
+    "color": "#ff69b4"
+  },
+  {
+    "id": 512,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.171,
+    "lat": -19.887,
+    "color": "#f47920"
+  },
+  {
+    "id": 513,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 124.04,
+    "lat": -24.295,
+    "color": "#f47920"
+  },
+  {
+    "id": 514,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 118.266,
+    "lat": -31.738,
+    "color": "#f47920"
+  },
+  {
+    "id": 515,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 119.67,
+    "lat": -25.816,
+    "color": "#f47920"
+  },
+  {
+    "id": 516,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 121.876,
+    "lat": -30.456,
+    "color": "#f47920"
+  },
+  {
+    "id": 517,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 119.464,
+    "lat": -30.815,
+    "color": "#f47920"
+  },
+  {
+    "id": 518,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 115.291,
+    "lat": -25.835,
+    "color": "#f47920"
+  },
+  {
+    "id": 519,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.782,
+    "lat": -24.515,
+    "color": "#f47920"
+  },
+  {
+    "id": 520,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Perth Scorchers",
+    "state": "WA",
+    "lon": 120.207,
+    "lat": -23.691,
+    "color": "#f47920"
+  },
+  {
+    "id": 521,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 149.315,
+    "lat": -23.415,
+    "color": "#e4002b"
+  },
+  {
+    "id": 522,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.011,
+    "lat": -21.724,
+    "color": "#e4002b"
+  },
+  {
+    "id": 523,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 143.836,
+    "lat": -28.959,
+    "color": "#e4002b"
+  },
+  {
+    "id": 524,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.006,
+    "lat": -20.903,
+    "color": "#e4002b"
+  },
+  {
+    "id": 525,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 145.054,
+    "lat": -23.838,
+    "color": "#e4002b"
+  },
+  {
+    "id": 526,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 142.137,
+    "lat": -27.561,
+    "color": "#e4002b"
+  },
+  {
+    "id": 527,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 146.129,
+    "lat": -19.995,
+    "color": "#e4002b"
+  },
+  {
+    "id": 528,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Brisbane Heat",
+    "state": "QLD",
+    "lon": 139.432,
+    "lat": -26.742,
+    "color": "#e4002b"
+  },
+  {
+    "id": 529,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.452,
+    "lat": -32.156,
+    "color": "#005aab"
+  },
+  {
+    "id": 530,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 136.002,
+    "lat": -27.027,
+    "color": "#005aab"
+  },
+  {
+    "id": 531,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 136.03,
+    "lat": -27.104,
+    "color": "#005aab"
+  },
+  {
+    "id": 532,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 133.972,
+    "lat": -31.172,
+    "color": "#005aab"
+  },
+  {
+    "id": 533,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 136.853,
+    "lat": -26.611,
+    "color": "#005aab"
+  },
+  {
+    "id": 534,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 138.814,
+    "lat": -27.796,
+    "color": "#005aab"
+  },
+  {
+    "id": 535,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Adelaide Strikers",
+    "state": "SA",
+    "lon": 132.912,
+    "lat": -29.102,
+    "color": "#005aab"
+  },
+  {
+    "id": 536,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 142.418,
+    "lat": -38.148,
+    "color": "#00a650"
+  },
+  {
+    "id": 537,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 144.185,
+    "lat": -36.829,
+    "color": "#00a650"
+  },
+  {
+    "id": 538,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.046,
+    "lat": -37.418,
+    "color": "#00a650"
+  },
+  {
+    "id": 539,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 143.491,
+    "lat": -38.381,
+    "color": "#00a650"
+  },
+  {
+    "id": 540,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 146.451,
+    "lat": -36.215,
+    "color": "#00a650"
+  },
+  {
+    "id": 541,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Melbourne Stars",
+    "state": "VIC",
+    "lon": 145.924,
+    "lat": -38.267,
+    "color": "#00a650"
+  },
+  {
+    "id": 542,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 147.482,
+    "lat": -40.971,
+    "color": "#6f2082"
+  },
+  {
+    "id": 543,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.207,
+    "lat": -42.607,
+    "color": "#6f2082"
+  },
+  {
+    "id": 544,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 145.877,
+    "lat": -42.722,
+    "color": "#6f2082"
+  },
+  {
+    "id": 545,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.68,
+    "lat": -41.444,
+    "color": "#6f2082"
+  },
+  {
+    "id": 546,
+    "season": "2023-24",
+    "season_idx": 12,
+    "team": "Hobart Hurricanes",
+    "state": "TAS",
+    "lon": 146.76,
+    "lat": -41.047,
+    "color": "#6f2082"
+  }
+]

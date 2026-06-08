@@ -1,0 +1,92 @@
+[
+  {
+    "id": 826,
+    "country": "England",
+    "test_win_rate": 51.2,
+    "test_matches": 356,
+    "odi_win_rate": 57.3,
+    "t20_win_rate": 52.1,
+    "lat": 51.5,
+    "lon": -0.1
+  },
+  {
+    "id": 356,
+    "country": "India",
+    "test_win_rate": 44.1,
+    "test_matches": 108,
+    "odi_win_rate": 52.8,
+    "t20_win_rate": 48.3,
+    "lat": 20.6,
+    "lon": 78.9
+  },
+  {
+    "id": 554,
+    "country": "New Zealand",
+    "test_win_rate": 62.3,
+    "test_matches": 56,
+    "odi_win_rate": 65.1,
+    "t20_win_rate": 58.9,
+    "lat": -40.9,
+    "lon": 174.9
+  },
+  {
+    "id": 710,
+    "country": "South Africa",
+    "test_win_rate": 53.7,
+    "test_matches": 97,
+    "odi_win_rate": 61.2,
+    "t20_win_rate": 54.4,
+    "lat": -30.6,
+    "lon": 22.9
+  },
+  {
+    "id": 586,
+    "country": "Pakistan",
+    "test_win_rate": 61.8,
+    "test_matches": 66,
+    "odi_win_rate": 67.4,
+    "t20_win_rate": 56.7,
+    "lat": 30.4,
+    "lon": 69.3
+  },
+  {
+    "id": 144,
+    "country": "Sri Lanka",
+    "test_win_rate": 69.2,
+    "test_matches": 30,
+    "odi_win_rate": 72.1,
+    "t20_win_rate": 61.8,
+    "lat": 7.9,
+    "lon": 80.7
+  },
+  {
+    "id": 716,
+    "country": "Zimbabwe",
+    "test_win_rate": 81.3,
+    "test_matches": 4,
+    "odi_win_rate": 83.2,
+    "t20_win_rate": 75,
+    "lat": -20,
+    "lon": 30
+  },
+  {
+    "id": 50,
+    "country": "Bangladesh",
+    "test_win_rate": 90.5,
+    "test_matches": 8,
+    "odi_win_rate": 76.4,
+    "t20_win_rate": 65.4,
+    "lat": 23.7,
+    "lon": 90.4
+  },
+  {
+    "id": 586,
+    "country": "West Indies",
+    "test_win_rate": 62.1,
+    "test_matches": 109,
+    "odi_win_rate": 71.3,
+    "t20_win_rate": 63.2,
+    "lat": 13.1,
+    "lon": -59.6
+  }
+]

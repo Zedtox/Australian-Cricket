@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2013-02-01",
+    "format": "Test",
+    "pointRank": 1,
+    "labelRank": 0.9,
+    "label": "Ashes 5–0",
+    "dx": -28
+  },
+  {
+    "date": "2015-03-01",
+    "format": "ODI",
+    "pointRank": 1,
+    "labelRank": 0.85,
+    "label": "ODI WC ★",
+    "dx": -26
+  },
+  {
+    "date": "2018-03-01",
+    "format": "All",
+    "pointRank": 5,
+    "labelRank": 5.15,
+    "label": "Cape Town",
+    "dx": -22
+  },
+  {
+    "date": "2021-02-01",
+    "format": "T20I",
+    "pointRank": 1,
+    "labelRank": 0.85,
+    "label": "T20 WC ★",
+    "dx": -22
+  },
+  {
+    "date": "2023-06-01",
+    "format": "ODI",
+    "pointRank": 1,
+    "labelRank": 0.85,
+    "label": "ODI WC ★",
+    "dx": -22
+  }
+]

@@ -1,0 +1,5834 @@
+[
+  {
+    "date": "2007-01-01",
+    "year": 2007,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2007-02-01",
+    "year": 2007,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-03-01",
+    "year": 2007,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-04-01",
+    "year": 2007,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-05-01",
+    "year": 2007,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-06-01",
+    "year": 2007,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-07-01",
+    "year": 2007,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-08-01",
+    "year": 2007,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-09-01",
+    "year": 2007,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-10-01",
+    "year": 2007,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-11-01",
+    "year": 2007,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-12-01",
+    "year": 2007,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-01-01",
+    "year": 2008,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2008-02-01",
+    "year": 2008,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-03-01",
+    "year": 2008,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-04-01",
+    "year": 2008,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-05-01",
+    "year": 2008,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-06-01",
+    "year": 2008,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-07-01",
+    "year": 2008,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-08-01",
+    "year": 2008,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-09-01",
+    "year": 2008,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-10-01",
+    "year": 2008,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-11-01",
+    "year": 2008,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-12-01",
+    "year": 2008,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-01-01",
+    "year": 2009,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2009-02-01",
+    "year": 2009,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-03-01",
+    "year": 2009,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-04-01",
+    "year": 2009,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-05-01",
+    "year": 2009,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-06-01",
+    "year": 2009,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-07-01",
+    "year": 2009,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-08-01",
+    "year": 2009,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-09-01",
+    "year": 2009,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-10-01",
+    "year": 2009,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-11-01",
+    "year": 2009,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-12-01",
+    "year": 2009,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-01-01",
+    "year": 2010,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2010-02-01",
+    "year": 2010,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-03-01",
+    "year": 2010,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-04-01",
+    "year": 2010,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-05-01",
+    "year": 2010,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-06-01",
+    "year": 2010,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-07-01",
+    "year": 2010,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-08-01",
+    "year": 2010,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-09-01",
+    "year": 2010,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-10-01",
+    "year": 2010,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-11-01",
+    "year": 2010,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-12-01",
+    "year": 2010,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-01-01",
+    "year": 2011,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": true
+  },
+  {
+    "date": "2011-02-01",
+    "year": 2011,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-03-01",
+    "year": 2011,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-04-01",
+    "year": 2011,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-05-01",
+    "year": 2011,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-06-01",
+    "year": 2011,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-07-01",
+    "year": 2011,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-08-01",
+    "year": 2011,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-09-01",
+    "year": 2011,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-10-01",
+    "year": 2011,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-11-01",
+    "year": 2011,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-12-01",
+    "year": 2011,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-01-01",
+    "year": 2012,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2012-02-01",
+    "year": 2012,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-03-01",
+    "year": 2012,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-04-01",
+    "year": 2012,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-05-01",
+    "year": 2012,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-06-01",
+    "year": 2012,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-07-01",
+    "year": 2012,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-08-01",
+    "year": 2012,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-09-01",
+    "year": 2012,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-10-01",
+    "year": 2012,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-11-01",
+    "year": 2012,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-12-01",
+    "year": 2012,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-01-01",
+    "year": 2013,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2013-02-01",
+    "year": 2013,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-03-01",
+    "year": 2013,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-04-01",
+    "year": 2013,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-05-01",
+    "year": 2013,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-06-01",
+    "year": 2013,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-07-01",
+    "year": 2013,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-08-01",
+    "year": 2013,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-09-01",
+    "year": 2013,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-10-01",
+    "year": 2013,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-11-01",
+    "year": 2013,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-12-01",
+    "year": 2013,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-01-01",
+    "year": 2014,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2014-02-01",
+    "year": 2014,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-03-01",
+    "year": 2014,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-04-01",
+    "year": 2014,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-05-01",
+    "year": 2014,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-06-01",
+    "year": 2014,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-07-01",
+    "year": 2014,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-08-01",
+    "year": 2014,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-09-01",
+    "year": 2014,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-10-01",
+    "year": 2014,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-11-01",
+    "year": 2014,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-12-01",
+    "year": 2014,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-01-01",
+    "year": 2015,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2015-02-01",
+    "year": 2015,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-03-01",
+    "year": 2015,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-04-01",
+    "year": 2015,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-05-01",
+    "year": 2015,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-06-01",
+    "year": 2015,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-07-01",
+    "year": 2015,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-08-01",
+    "year": 2015,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-09-01",
+    "year": 2015,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-10-01",
+    "year": 2015,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-11-01",
+    "year": 2015,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-12-01",
+    "year": 2015,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-01-01",
+    "year": 2016,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2016-02-01",
+    "year": 2016,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-03-01",
+    "year": 2016,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-04-01",
+    "year": 2016,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-05-01",
+    "year": 2016,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-06-01",
+    "year": 2016,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-07-01",
+    "year": 2016,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-08-01",
+    "year": 2016,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-09-01",
+    "year": 2016,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-10-01",
+    "year": 2016,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-11-01",
+    "year": 2016,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-12-01",
+    "year": 2016,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-01-01",
+    "year": 2017,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2017-02-01",
+    "year": 2017,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-03-01",
+    "year": 2017,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-04-01",
+    "year": 2017,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-05-01",
+    "year": 2017,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-06-01",
+    "year": 2017,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-07-01",
+    "year": 2017,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-08-01",
+    "year": 2017,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-09-01",
+    "year": 2017,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-10-01",
+    "year": 2017,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-11-01",
+    "year": 2017,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-12-01",
+    "year": 2017,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-01-01",
+    "year": 2018,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": true
+  },
+  {
+    "date": "2018-02-01",
+    "year": 2018,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-03-01",
+    "year": 2018,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-04-01",
+    "year": 2018,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-05-01",
+    "year": 2018,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-06-01",
+    "year": 2018,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-07-01",
+    "year": 2018,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-08-01",
+    "year": 2018,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-09-01",
+    "year": 2018,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-10-01",
+    "year": 2018,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-11-01",
+    "year": 2018,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-12-01",
+    "year": 2018,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-01-01",
+    "year": 2019,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": true
+  },
+  {
+    "date": "2019-02-01",
+    "year": 2019,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-03-01",
+    "year": 2019,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-04-01",
+    "year": 2019,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-05-01",
+    "year": 2019,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-06-01",
+    "year": 2019,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-07-01",
+    "year": 2019,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-08-01",
+    "year": 2019,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-09-01",
+    "year": 2019,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-10-01",
+    "year": 2019,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-11-01",
+    "year": 2019,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-12-01",
+    "year": 2019,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-01-01",
+    "year": 2020,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2020-02-01",
+    "year": 2020,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-03-01",
+    "year": 2020,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-04-01",
+    "year": 2020,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-05-01",
+    "year": 2020,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-06-01",
+    "year": 2020,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-07-01",
+    "year": 2020,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-08-01",
+    "year": 2020,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-09-01",
+    "year": 2020,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-10-01",
+    "year": 2020,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-11-01",
+    "year": 2020,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-12-01",
+    "year": 2020,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-01-01",
+    "year": 2021,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2021-02-01",
+    "year": 2021,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-03-01",
+    "year": 2021,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-04-01",
+    "year": 2021,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-05-01",
+    "year": 2021,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-06-01",
+    "year": 2021,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-07-01",
+    "year": 2021,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-08-01",
+    "year": 2021,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-09-01",
+    "year": 2021,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-10-01",
+    "year": 2021,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-11-01",
+    "year": 2021,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-12-01",
+    "year": 2021,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-01-01",
+    "year": 2022,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2022-02-01",
+    "year": 2022,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-03-01",
+    "year": 2022,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-04-01",
+    "year": 2022,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-05-01",
+    "year": 2022,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-06-01",
+    "year": 2022,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-07-01",
+    "year": 2022,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-08-01",
+    "year": 2022,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-09-01",
+    "year": 2022,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-10-01",
+    "year": 2022,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-11-01",
+    "year": 2022,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-12-01",
+    "year": 2022,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-01-01",
+    "year": 2023,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2023-02-01",
+    "year": 2023,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-03-01",
+    "year": 2023,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-04-01",
+    "year": 2023,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-05-01",
+    "year": 2023,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-06-01",
+    "year": 2023,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-07-01",
+    "year": 2023,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-08-01",
+    "year": 2023,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-09-01",
+    "year": 2023,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-10-01",
+    "year": 2023,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-11-01",
+    "year": 2023,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-12-01",
+    "year": 2023,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-01-01",
+    "year": 2024,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2024-02-01",
+    "year": 2024,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-03-01",
+    "year": 2024,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-04-01",
+    "year": 2024,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-05-01",
+    "year": 2024,
+    "month": "May",
+    "monthNum": 5,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-06-01",
+    "year": 2024,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-07-01",
+    "year": 2024,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-08-01",
+    "year": 2024,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-09-01",
+    "year": 2024,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-10-01",
+    "year": 2024,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-11-01",
+    "year": 2024,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-12-01",
+    "year": 2024,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "Test",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-01-01",
+    "year": 2007,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2007-02-01",
+    "year": 2007,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-03-01",
+    "year": 2007,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-04-01",
+    "year": 2007,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-05-01",
+    "year": 2007,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-06-01",
+    "year": 2007,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-07-01",
+    "year": 2007,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-08-01",
+    "year": 2007,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-09-01",
+    "year": 2007,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-10-01",
+    "year": 2007,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-11-01",
+    "year": 2007,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-12-01",
+    "year": 2007,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-01-01",
+    "year": 2008,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2008-02-01",
+    "year": 2008,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-03-01",
+    "year": 2008,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-04-01",
+    "year": 2008,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-05-01",
+    "year": 2008,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-06-01",
+    "year": 2008,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-07-01",
+    "year": 2008,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-08-01",
+    "year": 2008,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-09-01",
+    "year": 2008,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-10-01",
+    "year": 2008,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-11-01",
+    "year": 2008,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-12-01",
+    "year": 2008,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-01-01",
+    "year": 2009,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2009-02-01",
+    "year": 2009,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-03-01",
+    "year": 2009,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-04-01",
+    "year": 2009,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-05-01",
+    "year": 2009,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-06-01",
+    "year": 2009,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-07-01",
+    "year": 2009,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-08-01",
+    "year": 2009,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-09-01",
+    "year": 2009,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-10-01",
+    "year": 2009,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-11-01",
+    "year": 2009,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-12-01",
+    "year": 2009,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-01-01",
+    "year": 2010,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2010-02-01",
+    "year": 2010,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-03-01",
+    "year": 2010,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-04-01",
+    "year": 2010,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-05-01",
+    "year": 2010,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-06-01",
+    "year": 2010,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-07-01",
+    "year": 2010,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-08-01",
+    "year": 2010,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-09-01",
+    "year": 2010,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-10-01",
+    "year": 2010,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-11-01",
+    "year": 2010,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-12-01",
+    "year": 2010,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-01-01",
+    "year": 2011,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2011-02-01",
+    "year": 2011,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-03-01",
+    "year": 2011,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-04-01",
+    "year": 2011,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-05-01",
+    "year": 2011,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-06-01",
+    "year": 2011,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-07-01",
+    "year": 2011,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-08-01",
+    "year": 2011,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-09-01",
+    "year": 2011,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-10-01",
+    "year": 2011,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-11-01",
+    "year": 2011,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-12-01",
+    "year": 2011,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-01-01",
+    "year": 2012,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2012-02-01",
+    "year": 2012,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-03-01",
+    "year": 2012,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-04-01",
+    "year": 2012,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-05-01",
+    "year": 2012,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-06-01",
+    "year": 2012,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-07-01",
+    "year": 2012,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-08-01",
+    "year": 2012,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-09-01",
+    "year": 2012,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-10-01",
+    "year": 2012,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-11-01",
+    "year": 2012,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-12-01",
+    "year": 2012,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-01-01",
+    "year": 2013,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": true
+  },
+  {
+    "date": "2013-02-01",
+    "year": 2013,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-03-01",
+    "year": 2013,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-04-01",
+    "year": 2013,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-05-01",
+    "year": 2013,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-06-01",
+    "year": 2013,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-07-01",
+    "year": 2013,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-08-01",
+    "year": 2013,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-09-01",
+    "year": 2013,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-10-01",
+    "year": 2013,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-11-01",
+    "year": 2013,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-12-01",
+    "year": 2013,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-01-01",
+    "year": 2014,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2014-02-01",
+    "year": 2014,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-03-01",
+    "year": 2014,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-04-01",
+    "year": 2014,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-05-01",
+    "year": 2014,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-06-01",
+    "year": 2014,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-07-01",
+    "year": 2014,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-08-01",
+    "year": 2014,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-09-01",
+    "year": 2014,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-10-01",
+    "year": 2014,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-11-01",
+    "year": 2014,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-12-01",
+    "year": 2014,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-01-01",
+    "year": 2015,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2015-02-01",
+    "year": 2015,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-03-01",
+    "year": 2015,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-04-01",
+    "year": 2015,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-05-01",
+    "year": 2015,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-06-01",
+    "year": 2015,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-07-01",
+    "year": 2015,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-08-01",
+    "year": 2015,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-09-01",
+    "year": 2015,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-10-01",
+    "year": 2015,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-11-01",
+    "year": 2015,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-12-01",
+    "year": 2015,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-01-01",
+    "year": 2016,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2016-02-01",
+    "year": 2016,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-03-01",
+    "year": 2016,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-04-01",
+    "year": 2016,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-05-01",
+    "year": 2016,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-06-01",
+    "year": 2016,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-07-01",
+    "year": 2016,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-08-01",
+    "year": 2016,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-09-01",
+    "year": 2016,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-10-01",
+    "year": 2016,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-11-01",
+    "year": 2016,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-12-01",
+    "year": 2016,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-01-01",
+    "year": 2017,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2017-02-01",
+    "year": 2017,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-03-01",
+    "year": 2017,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-04-01",
+    "year": 2017,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-05-01",
+    "year": 2017,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-06-01",
+    "year": 2017,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-07-01",
+    "year": 2017,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-08-01",
+    "year": 2017,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-09-01",
+    "year": 2017,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-10-01",
+    "year": 2017,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-11-01",
+    "year": 2017,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-12-01",
+    "year": 2017,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-01-01",
+    "year": 2018,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2018-02-01",
+    "year": 2018,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-03-01",
+    "year": 2018,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-04-01",
+    "year": 2018,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-05-01",
+    "year": 2018,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-06-01",
+    "year": 2018,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-07-01",
+    "year": 2018,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-08-01",
+    "year": 2018,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-09-01",
+    "year": 2018,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-10-01",
+    "year": 2018,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-11-01",
+    "year": 2018,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-12-01",
+    "year": 2018,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-01-01",
+    "year": 2019,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": true
+  },
+  {
+    "date": "2019-02-01",
+    "year": 2019,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-03-01",
+    "year": 2019,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-04-01",
+    "year": 2019,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-05-01",
+    "year": 2019,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-06-01",
+    "year": 2019,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-07-01",
+    "year": 2019,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-08-01",
+    "year": 2019,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-09-01",
+    "year": 2019,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-10-01",
+    "year": 2019,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-11-01",
+    "year": 2019,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-12-01",
+    "year": 2019,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-01-01",
+    "year": 2020,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2020-02-01",
+    "year": 2020,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-03-01",
+    "year": 2020,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-04-01",
+    "year": 2020,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-05-01",
+    "year": 2020,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-06-01",
+    "year": 2020,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-07-01",
+    "year": 2020,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-08-01",
+    "year": 2020,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-09-01",
+    "year": 2020,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-10-01",
+    "year": 2020,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-11-01",
+    "year": 2020,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-12-01",
+    "year": 2020,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-01-01",
+    "year": 2021,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2021-02-01",
+    "year": 2021,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-03-01",
+    "year": 2021,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-04-01",
+    "year": 2021,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-05-01",
+    "year": 2021,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-06-01",
+    "year": 2021,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-07-01",
+    "year": 2021,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-08-01",
+    "year": 2021,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-09-01",
+    "year": 2021,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-10-01",
+    "year": 2021,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-11-01",
+    "year": 2021,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-12-01",
+    "year": 2021,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-01-01",
+    "year": 2022,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2022-02-01",
+    "year": 2022,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-03-01",
+    "year": 2022,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-04-01",
+    "year": 2022,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-05-01",
+    "year": 2022,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-06-01",
+    "year": 2022,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-07-01",
+    "year": 2022,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-08-01",
+    "year": 2022,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-09-01",
+    "year": 2022,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-10-01",
+    "year": 2022,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-11-01",
+    "year": 2022,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-12-01",
+    "year": 2022,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-01-01",
+    "year": 2023,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2023-02-01",
+    "year": 2023,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-03-01",
+    "year": 2023,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-04-01",
+    "year": 2023,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-05-01",
+    "year": 2023,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-06-01",
+    "year": 2023,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-07-01",
+    "year": 2023,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-08-01",
+    "year": 2023,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-09-01",
+    "year": 2023,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-10-01",
+    "year": 2023,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-11-01",
+    "year": 2023,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-12-01",
+    "year": 2023,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-01-01",
+    "year": 2024,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2024-02-01",
+    "year": 2024,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-03-01",
+    "year": 2024,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-04-01",
+    "year": 2024,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-05-01",
+    "year": 2024,
+    "month": "May",
+    "monthNum": 5,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-06-01",
+    "year": 2024,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-07-01",
+    "year": 2024,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-08-01",
+    "year": 2024,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-09-01",
+    "year": 2024,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-10-01",
+    "year": 2024,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-11-01",
+    "year": 2024,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-12-01",
+    "year": 2024,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "ODI",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-01-01",
+    "year": 2007,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2007-02-01",
+    "year": 2007,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-03-01",
+    "year": 2007,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-04-01",
+    "year": 2007,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-05-01",
+    "year": 2007,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-06-01",
+    "year": 2007,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-07-01",
+    "year": 2007,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-08-01",
+    "year": 2007,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-09-01",
+    "year": 2007,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-10-01",
+    "year": 2007,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-11-01",
+    "year": 2007,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2007-12-01",
+    "year": 2007,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-01-01",
+    "year": 2008,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": true
+  },
+  {
+    "date": "2008-02-01",
+    "year": 2008,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-03-01",
+    "year": 2008,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-04-01",
+    "year": 2008,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-05-01",
+    "year": 2008,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-06-01",
+    "year": 2008,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-07-01",
+    "year": 2008,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-08-01",
+    "year": 2008,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-09-01",
+    "year": 2008,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-10-01",
+    "year": 2008,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-11-01",
+    "year": 2008,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2008-12-01",
+    "year": 2008,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-01-01",
+    "year": 2009,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2009-02-01",
+    "year": 2009,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-03-01",
+    "year": 2009,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-04-01",
+    "year": 2009,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-05-01",
+    "year": 2009,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-06-01",
+    "year": 2009,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-07-01",
+    "year": 2009,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-08-01",
+    "year": 2009,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-09-01",
+    "year": 2009,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-10-01",
+    "year": 2009,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-11-01",
+    "year": 2009,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2009-12-01",
+    "year": 2009,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-01-01",
+    "year": 2010,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2010-02-01",
+    "year": 2010,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-03-01",
+    "year": 2010,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-04-01",
+    "year": 2010,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-05-01",
+    "year": 2010,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-06-01",
+    "year": 2010,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-07-01",
+    "year": 2010,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-08-01",
+    "year": 2010,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-09-01",
+    "year": 2010,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-10-01",
+    "year": 2010,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-11-01",
+    "year": 2010,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2010-12-01",
+    "year": 2010,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-01-01",
+    "year": 2011,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2011-02-01",
+    "year": 2011,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-03-01",
+    "year": 2011,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-04-01",
+    "year": 2011,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-05-01",
+    "year": 2011,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-06-01",
+    "year": 2011,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-07-01",
+    "year": 2011,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-08-01",
+    "year": 2011,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-09-01",
+    "year": 2011,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-10-01",
+    "year": 2011,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-11-01",
+    "year": 2011,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2011-12-01",
+    "year": 2011,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-01-01",
+    "year": 2012,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": true
+  },
+  {
+    "date": "2012-02-01",
+    "year": 2012,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-03-01",
+    "year": 2012,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-04-01",
+    "year": 2012,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-05-01",
+    "year": 2012,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-06-01",
+    "year": 2012,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-07-01",
+    "year": 2012,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-08-01",
+    "year": 2012,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-09-01",
+    "year": 2012,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-10-01",
+    "year": 2012,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-11-01",
+    "year": 2012,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2012-12-01",
+    "year": 2012,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-01-01",
+    "year": 2013,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2013-02-01",
+    "year": 2013,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-03-01",
+    "year": 2013,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-04-01",
+    "year": 2013,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-05-01",
+    "year": 2013,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-06-01",
+    "year": 2013,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-07-01",
+    "year": 2013,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-08-01",
+    "year": 2013,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-09-01",
+    "year": 2013,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-10-01",
+    "year": 2013,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-11-01",
+    "year": 2013,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2013-12-01",
+    "year": 2013,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-01-01",
+    "year": 2014,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": true
+  },
+  {
+    "date": "2014-02-01",
+    "year": 2014,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-03-01",
+    "year": 2014,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-04-01",
+    "year": 2014,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-05-01",
+    "year": 2014,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-06-01",
+    "year": 2014,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-07-01",
+    "year": 2014,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-08-01",
+    "year": 2014,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-09-01",
+    "year": 2014,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-10-01",
+    "year": 2014,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-11-01",
+    "year": 2014,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2014-12-01",
+    "year": 2014,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-01-01",
+    "year": 2015,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2015-02-01",
+    "year": 2015,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-03-01",
+    "year": 2015,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-04-01",
+    "year": 2015,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-05-01",
+    "year": 2015,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-06-01",
+    "year": 2015,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-07-01",
+    "year": 2015,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-08-01",
+    "year": 2015,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-09-01",
+    "year": 2015,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-10-01",
+    "year": 2015,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-11-01",
+    "year": 2015,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2015-12-01",
+    "year": 2015,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-01-01",
+    "year": 2016,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": true
+  },
+  {
+    "date": "2016-02-01",
+    "year": 2016,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-03-01",
+    "year": 2016,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-04-01",
+    "year": 2016,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-05-01",
+    "year": 2016,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-06-01",
+    "year": 2016,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-07-01",
+    "year": 2016,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 5,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-08-01",
+    "year": 2016,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-09-01",
+    "year": 2016,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-10-01",
+    "year": 2016,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-11-01",
+    "year": 2016,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2016-12-01",
+    "year": 2016,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-01-01",
+    "year": 2017,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": true
+  },
+  {
+    "date": "2017-02-01",
+    "year": 2017,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-03-01",
+    "year": 2017,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-04-01",
+    "year": 2017,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-05-01",
+    "year": 2017,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-06-01",
+    "year": 2017,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-07-01",
+    "year": 2017,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-08-01",
+    "year": 2017,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-09-01",
+    "year": 2017,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-10-01",
+    "year": 2017,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-11-01",
+    "year": 2017,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2017-12-01",
+    "year": 2017,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-01-01",
+    "year": 2018,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2018-02-01",
+    "year": 2018,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-03-01",
+    "year": 2018,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-04-01",
+    "year": 2018,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-05-01",
+    "year": 2018,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-06-01",
+    "year": 2018,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-07-01",
+    "year": 2018,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-08-01",
+    "year": 2018,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-09-01",
+    "year": 2018,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-10-01",
+    "year": 2018,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-11-01",
+    "year": 2018,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2018-12-01",
+    "year": 2018,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-01-01",
+    "year": 2019,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": true
+  },
+  {
+    "date": "2019-02-01",
+    "year": 2019,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-03-01",
+    "year": 2019,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-04-01",
+    "year": 2019,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-05-01",
+    "year": 2019,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-06-01",
+    "year": 2019,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-07-01",
+    "year": 2019,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 4,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-08-01",
+    "year": 2019,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-09-01",
+    "year": 2019,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-10-01",
+    "year": 2019,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-11-01",
+    "year": 2019,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2019-12-01",
+    "year": 2019,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-01-01",
+    "year": 2020,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2020-02-01",
+    "year": 2020,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-03-01",
+    "year": 2020,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-04-01",
+    "year": 2020,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-05-01",
+    "year": 2020,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-06-01",
+    "year": 2020,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-07-01",
+    "year": 2020,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-08-01",
+    "year": 2020,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-09-01",
+    "year": 2020,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-10-01",
+    "year": 2020,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-11-01",
+    "year": 2020,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2020-12-01",
+    "year": 2020,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-01-01",
+    "year": 2021,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 1,
+    "isYearPoint": true
+  },
+  {
+    "date": "2021-02-01",
+    "year": 2021,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-03-01",
+    "year": 2021,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-04-01",
+    "year": 2021,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-05-01",
+    "year": 2021,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-06-01",
+    "year": 2021,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 1,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-07-01",
+    "year": 2021,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-08-01",
+    "year": 2021,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-09-01",
+    "year": 2021,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-10-01",
+    "year": 2021,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-11-01",
+    "year": 2021,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2021-12-01",
+    "year": 2021,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-01-01",
+    "year": 2022,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2022-02-01",
+    "year": 2022,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-03-01",
+    "year": 2022,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-04-01",
+    "year": 2022,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-05-01",
+    "year": 2022,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-06-01",
+    "year": 2022,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-07-01",
+    "year": 2022,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-08-01",
+    "year": 2022,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-09-01",
+    "year": 2022,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-10-01",
+    "year": 2022,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-11-01",
+    "year": 2022,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2022-12-01",
+    "year": 2022,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-01-01",
+    "year": 2023,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": true
+  },
+  {
+    "date": "2023-02-01",
+    "year": 2023,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-03-01",
+    "year": 2023,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-04-01",
+    "year": 2023,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-05-01",
+    "year": 2023,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-06-01",
+    "year": 2023,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-07-01",
+    "year": 2023,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 3,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-08-01",
+    "year": 2023,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-09-01",
+    "year": 2023,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-10-01",
+    "year": 2023,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-11-01",
+    "year": 2023,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2023-12-01",
+    "year": 2023,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-01-01",
+    "year": 2024,
+    "month": "Jan",
+    "monthNum": 1,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": true
+  },
+  {
+    "date": "2024-02-01",
+    "year": 2024,
+    "month": "Feb",
+    "monthNum": 2,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-03-01",
+    "year": 2024,
+    "month": "Mar",
+    "monthNum": 3,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-04-01",
+    "year": 2024,
+    "month": "Apr",
+    "monthNum": 4,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-05-01",
+    "year": 2024,
+    "month": "May",
+    "monthNum": 5,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-06-01",
+    "year": 2024,
+    "month": "Jun",
+    "monthNum": 6,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-07-01",
+    "year": 2024,
+    "month": "Jul",
+    "monthNum": 7,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-08-01",
+    "year": 2024,
+    "month": "Aug",
+    "monthNum": 8,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-09-01",
+    "year": 2024,
+    "month": "Sep",
+    "monthNum": 9,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-10-01",
+    "year": 2024,
+    "month": "Oct",
+    "monthNum": 10,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-11-01",
+    "year": 2024,
+    "month": "Nov",
+    "monthNum": 11,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  },
+  {
+    "date": "2024-12-01",
+    "year": 2024,
+    "month": "Dec",
+    "monthNum": 12,
+    "format": "T20I",
+    "rank": 2,
+    "isYearPoint": false
+  }
+]

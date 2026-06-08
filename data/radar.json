@@ -1,0 +1,182 @@
+[
+  {
+    "captain": "Ricky Ponting",
+    "metric": "Win %",
+    "value": 85
+  },
+  {
+    "captain": "Ricky Ponting",
+    "metric": "Batting Avg",
+    "value": 90
+  },
+  {
+    "captain": "Ricky Ponting",
+    "metric": "WC Titles",
+    "value": 100
+  },
+  {
+    "captain": "Ricky Ponting",
+    "metric": "Ashes Wins",
+    "value": 100
+  },
+  {
+    "captain": "Ricky Ponting",
+    "metric": "Tests Led",
+    "value": 100
+  },
+  {
+    "captain": "Ricky Ponting",
+    "metric": "Runs Scored",
+    "value": 100
+  },
+  {
+    "captain": "Steve Waugh",
+    "metric": "Win %",
+    "value": 78
+  },
+  {
+    "captain": "Steve Waugh",
+    "metric": "Batting Avg",
+    "value": 88
+  },
+  {
+    "captain": "Steve Waugh",
+    "metric": "WC Titles",
+    "value": 50
+  },
+  {
+    "captain": "Steve Waugh",
+    "metric": "Ashes Wins",
+    "value": 75
+  },
+  {
+    "captain": "Steve Waugh",
+    "metric": "Tests Led",
+    "value": 100
+  },
+  {
+    "captain": "Steve Waugh",
+    "metric": "Runs Scored",
+    "value": 92
+  },
+  {
+    "captain": "Allan Border",
+    "metric": "Win %",
+    "value": 42
+  },
+  {
+    "captain": "Allan Border",
+    "metric": "Batting Avg",
+    "value": 87
+  },
+  {
+    "captain": "Allan Border",
+    "metric": "WC Titles",
+    "value": 50
+  },
+  {
+    "captain": "Allan Border",
+    "metric": "Ashes Wins",
+    "value": 50
+  },
+  {
+    "captain": "Allan Border",
+    "metric": "Tests Led",
+    "value": 98
+  },
+  {
+    "captain": "Allan Border",
+    "metric": "Runs Scored",
+    "value": 94
+  },
+  {
+    "captain": "Michael Clarke",
+    "metric": "Win %",
+    "value": 72
+  },
+  {
+    "captain": "Michael Clarke",
+    "metric": "Batting Avg",
+    "value": 84
+  },
+  {
+    "captain": "Michael Clarke",
+    "metric": "WC Titles",
+    "value": 50
+  },
+  {
+    "captain": "Michael Clarke",
+    "metric": "Ashes Wins",
+    "value": 50
+  },
+  {
+    "captain": "Michael Clarke",
+    "metric": "Tests Led",
+    "value": 72
+  },
+  {
+    "captain": "Michael Clarke",
+    "metric": "Runs Scored",
+    "value": 78
+  },
+  {
+    "captain": "Pat Cummins",
+    "metric": "Win %",
+    "value": 82
+  },
+  {
+    "captain": "Pat Cummins",
+    "metric": "Batting Avg",
+    "value": 22
+  },
+  {
+    "captain": "Pat Cummins",
+    "metric": "WC Titles",
+    "value": 100
+  },
+  {
+    "captain": "Pat Cummins",
+    "metric": "Ashes Wins",
+    "value": 50
+  },
+  {
+    "captain": "Pat Cummins",
+    "metric": "Tests Led",
+    "value": 42
+  },
+  {
+    "captain": "Pat Cummins",
+    "metric": "Runs Scored",
+    "value": 8
+  },
+  {
+    "captain": "Mark Taylor",
+    "metric": "Win %",
+    "value": 55
+  },
+  {
+    "captain": "Mark Taylor",
+    "metric": "Batting Avg",
+    "value": 74
+  },
+  {
+    "captain": "Mark Taylor",
+    "metric": "WC Titles",
+    "value": 0
+  },
+  {
+    "captain": "Mark Taylor",
+    "metric": "Ashes Wins",
+    "value": 50
+  },
+  {
+    "captain": "Mark Taylor",
+    "metric": "Tests Led",
+    "value": 64
+  },
+  {
+    "captain": "Mark Taylor",
+    "metric": "Runs Scored",
+    "value": 68
+  }
+]
